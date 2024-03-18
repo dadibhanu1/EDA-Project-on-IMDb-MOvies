@@ -1,0 +1,1001 @@
+,Name of  movie,Year of release,Watchtime,Movie Rating,Metascore,Votes,Gross collection in millions,Director,Star,Genre
+0,The Godfather,1972,175 ,9.2,100        ,"1,994,924",$134.97M,Francis Ford Coppola,Marlon Brando,Crime
+1,Goodfellas,1990,145 ,8.7,92        ,"1,246,216",$46.84M,Martin Scorsese,Robert De Niro,Biography
+2,Pulp Fiction,1994,154 ,8.9,95        ,"2,199,299",$107.93M,Quentin Tarantino,John Travolta,Crime
+3,The Usual Suspects,1995,106 ,8.5,76        ,"1,138,428",$23.34M,Bryan Singer,Kevin Spacey,Crime
+4,Apocalypse Now,1979,147 ,8.4,94        ,"705,022",$83.47M,Francis Ford Coppola,Martin Sheen,Drama
+5,Trainspotting,1996,93 ,8.1,83        ,"721,563",$16.50M,Danny Boyle,Ewan McGregor,Drama            
+6,Fight Club,1999,139 ,8.8,67        ,"2,299,201",$37.03M,David Fincher,Brad Pitt,Drama            
+7,Schindler's List,1993,195 ,9,95        ,"1,438,556",$96.90M,Steven Spielberg,Liam Neeson,Biography
+8,Boogie Nights,1997,155 ,7.9,86        ,"280,618",$26.40M,Paul Thomas Anderson,Mark Wahlberg,Drama            
+9,Reservoir Dogs,1992,99 ,8.3,81        ,"1,080,488",$2.83M,Quentin Tarantino,Harvey Keitel,Crime
+10,The Shawshank Redemption,1994,142 ,9.3,82        ,"2,863,914",$28.34M,Frank Darabont,Tim Robbins,Drama            
+11,Jaws,1975,124 ,8.1,87        ,"654,539",$260.00M,Steven Spielberg,Roy Scheider,Adventure
+12,Taxi Driver,1976,114 ,8.2,94        ,"912,092",$28.26M,Martin Scorsese,Robert De Niro,Crime
+13,L.A. Confidential,1997,138 ,8.2,91        ,"613,836",$64.62M,Curtis Hanson,Kevin Spacey,Crime
+14,Back to the Future,1985,116 ,8.5,87        ,"1,295,635",$210.61M,Robert Zemeckis,Michael J. Fox,Adventure
+15,The Godfather Part II,1974,202 ,9,90        ,"1,353,560",$57.30M,Francis Ford Coppola,Al Pacino,Crime
+16,Fargo,1996,98 ,8.1,87        ,"721,085",$24.61M,Joel Coen,Ethan Coen,Crime
+17,The Dark Knight,2008,152 ,9,84        ,"2,845,052",$534.86M,Christopher Nolan,Christian Bale,Action
+18,The Matrix,1999,136 ,8.7,73        ,"2,034,762",$171.48M,Lana Wachowski,Lilly Wachowski,Action
+19,Magnolia,1999,188 ,8,78        ,"326,869",$22.46M,Paul Thomas Anderson,Tom Cruise,Drama            
+20,Scarface,1983,170 ,8.3,65        ,"908,396",$45.60M,Brian De Palma,Al Pacino,Crime
+21,The Royal Tenenbaums,2001,110 ,7.6,76        ,"311,693",$52.36M,Wes Anderson,Gene Hackman,Comedy
+22,Donnie Darko,2001,113 ,8,88        ,"844,848",$1.48M,Richard Kelly,Jake Gyllenhaal,Drama
+23,Platoon,1986,120 ,8.1,92        ,"436,529",$138.53M,Oliver Stone,Charlie Sheen,Drama
+24,Heat,1995,170 ,8.3,76        ,"713,140",$67.44M,Michael Mann,Al Pacino,Action
+25,American Beauty,1999,122 ,8.3,84        ,"1,204,505",$130.10M,Sam Mendes,Kevin Spacey,Drama            
+26,The Big Lebowski,1998,117 ,8.1,71        ,"854,931",$17.50M,Joel Coen,Ethan Coen,Comedy
+27,Raging Bull,1980,129 ,8.1,90        ,"377,536",$23.38M,Martin Scorsese,Robert De Niro,Biography
+28,Un prophète,2009,155 ,7.8,90        ,"101,853",$2.08M,Jacques Audiard,Tahar Rahim,Crime
+29,The Departed,2006,151 ,8.5,85        ,"1,411,471",$132.38M,Martin Scorsese,Leonardo DiCaprio,Crime
+30,There's Something About Mary,1998,119 ,7.1,69        ,"327,204",$176.48M,Bobby Farrelly,Peter Farrelly,Comedy
+31,Léon,1994,110 ,8.5,64        ,"1,236,058",$19.50M,Luc Besson,Jean Reno,Action
+32,Cidade de Deus,2002,130 ,8.6,79        ,"795,646",$7.56M,Fernando Meirelles,Kátia Lund,Crime
+33,Once Upon a Time in America,1984,229 ,8.3,75        ,"374,966",$5.32M,Sergio Leone,Robert De Niro,Crime
+34,"Lock, Stock and Two Smoking Barrels",1998,107 ,8.1,65        ,"612,487",$3.90M,Guy Ritchie,Jason Flemyng,Action
+35,The Truman Show,1998,103 ,8.2,90        ,"1,183,165",$125.62M,Peter Weir,Jim Carrey,Comedy
+36,Toy Story,1995,81 ,8.3,96        ,"1,060,506",$191.80M,John Lasseter,Tom Hanks,Animation
+37,Alien,1979,117 ,8.5,89        ,"942,076",$78.90M,Ridley Scott,Sigourney Weaver,Horror
+38,Rushmore,1998,93 ,7.6,87        ,"197,074",$17.11M,Wes Anderson,Jason Schwartzman,Comedy
+39,Se7en,1995,127 ,8.6,65        ,"1,781,693",$100.13M,David Fincher,Morgan Freeman,Crime
+40,Good Will Hunting,1997,126 ,8.3,71        ,"1,055,555",$138.43M,Gus Van Sant,Robin Williams,Drama
+41,Aliens,1986,137 ,8.4,84        ,"757,488",$85.16M,James Cameron,Sigourney Weaver,Action
+42,The Exorcist,1973,122 ,8.1,82        ,"451,484",$232.91M,William Friedkin,Ellen Burstyn,Horror            
+43,One Flew Over the Cuckoo's Nest,1975,133 ,8.7,84        ,"1,065,255",$112.00M,Milos Forman,Jack Nicholson,Drama            
+44,Chinatown,1974,130 ,8.1,92        ,"347,167",nan,Roman Polanski,Jack Nicholson,Drama
+45,Casino,1995,178 ,8.2,73        ,"559,311",$42.44M,Martin Scorsese,Robert De Niro,Crime
+46,True Romance,1993,119 ,7.9,59        ,"240,893",$12.28M,Tony Scott,Christian Slater,Crime
+47,Gladiator,2000,155 ,8.5,67        ,"1,605,440",$187.71M,Ridley Scott,Russell Crowe,Action
+48,Raiders of the Lost Ark,1981,115 ,8.4,86        ,"1,031,067",$248.16M,Steven Spielberg,Harrison Ford,Action
+49,Miller's Crossing,1990,115 ,7.7,66        ,"141,385",$5.08M,Joel Coen,Ethan Coen,Crime
+50,Being John Malkovich,1999,113 ,7.7,90        ,"351,789",$22.86M,Spike Jonze,John Cusack,Comedy
+51,Die Hard,1988,132 ,8.2,72        ,"939,445",$83.01M,John McTiernan,Bruce Willis,Action
+52,Casablanca,1942,102 ,8.5,100        ,"602,310",$1.02M,Michael Curtiz,Humphrey Bogart,Drama
+53,Kick-Ass,2010,117 ,7.6,66        ,"590,149",$48.07M,Matthew Vaughn,Aaron Taylor-Johnson,Action
+54,The Prestige,2006,130 ,8.5,66        ,"1,428,704",$53.09M,Christopher Nolan,Christian Bale,Drama
+55,Inglourious Basterds,2009,153 ,8.4,69        ,"1,568,283",$120.54M,Quentin Tarantino,Brad Pitt,Adventure
+56,Evil Dead II,1987,84 ,7.7,72        ,"180,794",$5.92M,Sam Raimi,Bruce Campbell,Comedy
+57,Jurassic Park,1993,127 ,8.2,68        ,"1,058,383",$402.45M,Steven Spielberg,Sam Neill,Action
+58,Batman Begins,2005,140 ,8.2,70        ,"1,565,982",$206.85M,Christopher Nolan,Christian Bale,Action
+59,The Green Mile,1999,189 ,8.6,61        ,"1,395,130",$136.80M,Frank Darabont,Tom Hanks,Crime
+60,The French Connection,1971,104 ,7.7,94        ,"134,525",$15.63M,William Friedkin,Gene Hackman,Action
+61,Unforgiven,1992,130 ,8.2,85        ,"433,527",$101.16M,Clint Eastwood,Clint Eastwood,Drama
+62,Drive, 2011,100 ,7.8,79        ,"699,057",$35.06M,Nicolas Winding Refn,Ryan Gosling,Action
+63,The Shining,1980,146 ,8.4,68        ,"1,097,541",$44.02M,Stanley Kubrick,Jack Nicholson,Drama
+64,The Evil Dead,1981,85 ,7.4,71        ,"231,051",$2.40M,Sam Raimi,Bruce Campbell,Horror            
+65,Forrest Gump,1994,142 ,8.8,82        ,"2,235,805",$330.25M,Robert Zemeckis,Tom Hanks,Drama
+66,The Thing,1982,109 ,8.2,57        ,"462,390",$13.78M,John Carpenter,Kurt Russell,Horror
+67,Citizen Kane,1941,119 ,8.3,100        ,"463,309",$1.59M,Orson Welles,Orson Welles,Drama
+68,Blue Velvet,1986,120 ,7.7,75        ,"214,103",$8.55M,David Lynch,Isabella Rossellini,Crime
+69,The Wicker Man,1973,88 ,7.5,87        ,"91,328",$0.06M,Robin Hardy,Edward Woodward,Horror
+70,Eternal Sunshine of the Spotless Mind,2004,108 ,8.3,89        ,"1,069,231",$34.40M,Michel Gondry,Jim Carrey,Drama
+71,The Princess Bride,1987,98 ,8,78        ,"448,542",$30.86M,Rob Reiner,Cary Elwes,Adventure
+72,A Clockwork Orange,1971,136 ,8.3,77        ,"875,931",$6.21M,Stanley Kubrick,Malcolm McDowell,Crime
+73,Go,1999,102 ,7.2,74        ,"74,715",$16.84M,Doug Liman,Sarah Polley,Comedy
+74,Stand by Me,1986,89 ,8.1,75        ,"437,878",$52.29M,Rob Reiner,Wil Wheaton,Adventure
+75,The Lord of the Rings: The Return of the King,2003,201 ,9,94        ,"1,961,550",$377.85M,Peter Jackson,Elijah Wood,Action
+76,Terminator 2: Judgment Day,1991,137 ,8.6,75        ,"1,165,557",$204.84M,James Cameron,Arnold Schwarzenegger,Action
+77,Toy Story 2,1999,92 ,7.9,88        ,"615,584",$245.85M,John Lasseter,Ash Brannon,Animation
+78,Saving Private Ryan,1998,169 ,8.6,91        ,"1,484,705",$216.54M,Steven Spielberg,Tom Hanks,Drama
+79,Indiana Jones and the Last Crusade,1989,127 ,8.2,65        ,"806,267",$197.17M,Steven Spielberg,Harrison Ford,Action
+80,Sin City,2005,124 ,8,74        ,"791,371",$74.10M,Frank Miller,Quentin Tarantino,Crime
+81,Saw,2004,103 ,7.6,46        ,"463,263",$56.00M,James Wan,Cary Elwes,Horror
+82,My Left Foot: The Story of Christy Brown,1989,103 ,7.8,97        ,"79,234",$14.74M,Jim Sheridan,Daniel Day-Lewis,Biography
+83,Bowling for Columbine,2002,120 ,8,72        ,"148,381",$21.58M,Michael Moore,Michael Moore,Documentary
+84,Man on Fire,2004,146 ,7.7,47        ,"387,113",$77.91M,Tony Scott,Denzel Washington,Action
+85,Almost Famous,2000,122 ,7.9,90        ,"291,787",$32.53M,Cameron Crowe,Billy Crudup,Adventure
+86,High Fidelity,2000,113 ,7.4,79        ,"188,892",$27.29M,Stephen Frears,John Cusack,Comedy
+87,Django Unchained,2012,165 ,8.5,81        ,"1,678,149",$162.81M,Quentin Tarantino,Jamie Foxx,Drama
+88,12 Angry Men,1957,96 ,9,97        ,"855,913",$4.36M,Sidney Lumet,Henry Fonda,Crime
+89,Memento,2000,113 ,8.4,83        ,"1,313,142",$25.54M,Christopher Nolan,Guy Pearce,Mystery
+90,Rain Man,1988,133 ,8,65        ,"543,174",$178.80M,Barry Levinson,Dustin Hoffman,Drama            
+91,Minority Report,2002,145 ,7.6,80        ,"580,933",$132.07M,Steven Spielberg,Tom Cruise,Action
+92,Goldfinger,1964,110 ,7.7,87        ,"201,466",$51.08M,Guy Hamilton,Sean Connery,Action
+93,The Social Network,2010,120 ,7.8,95        ,"753,112",$96.96M,David Fincher,Jesse Eisenberg,Biography
+94,American Psycho,2000,102 ,7.6,64        ,"705,861",$15.07M,Mary Harron,Christian Bale,Crime
+95,Men in Black,1997,98 ,7.3,72        ,"608,173",$250.69M,Barry Sonnenfeld,Tommy Lee Jones,Action
+96,No Country for Old Men,2007,122 ,8.2,92        ,"1,049,403",$74.28M,Ethan Coen,Joel Coen,Crime
+97,Airplane!,1980,88 ,7.7,78        ,"258,743",$83.40M,Jim Abrahams,David Zucker,Comedy            
+98,There Will Be Blood,2007,158 ,8.2,93        ,"636,311",$40.22M,Paul Thomas Anderson,Daniel Day-Lewis,Drama            
+99,Inception,2010,148 ,8.8,74        ,"2,526,730",$292.58M,Christopher Nolan,Leonardo DiCaprio,Action
+0,JFK,1991,189 ,8,72        ,"168,937",$70.41M,Oliver Stone,Kevin Costner,Drama
+1,King Kong,2005,187 ,7.2,81        ,"444,153",$218.08M,Peter Jackson,Naomi Watts,Action
+2,The Terminator,1984,107 ,8.1,84        ,"917,574",$38.40M,James Cameron,Arnold Schwarzenegger,Action
+3,The Lord of the Rings: The Fellowship of the Ring,2001,178 ,8.9,92        ,"1,989,399",$315.54M,Peter Jackson,Elijah Wood,Action
+4,Kill Bill: Vol. 1,2003,111 ,8.2,69        ,"1,182,942",$70.10M,Quentin Tarantino,Uma Thurman,Action
+5,The Silence of the Lambs,1991,118 ,8.6,86        ,"1,535,105",$130.74M,Jonathan Demme,Jodie Foster,Crime
+6,The Color of Money,1986,119 ,7,77        ,"92,672",$52.29M,Martin Scorsese,Paul Newman,Drama
+7,This Is England,2006,101 ,7.7,86        ,"128,214",$0.33M,Shane Meadows,Thomas Turgoose,Crime
+8,It's a Wonderful Life,1946,130 ,8.6,89        ,"496,173",nan,Frank Capra,James Stewart,Drama
+9,Children of Men,2006,109 ,7.9,84        ,"526,665",$35.55M,Alfonso Cuarón,Julianne Moore,Action
+10,In the Name of the Father,1993,133 ,8.1,84        ,"185,892",$25.01M,Jim Sheridan,Daniel Day-Lewis,Biography
+11,American History X,1998,119 ,8.5,62        ,"1,179,223",$6.72M,Tony Kaye,Edward Norton,Crime
+12,Twelve Monkeys,1995,129 ,8,75        ,"643,677",$57.14M,Terry Gilliam,Bruce Willis,Mystery
+13,Dog Day Afternoon,1975,125 ,8,86        ,"271,656",$50.00M,Sidney Lumet,Al Pacino,Biography
+14,The Untouchables,1987,119 ,7.8,79        ,"328,880",$76.27M,Brian De Palma,Kevin Costner,Crime
+15,Close Encounters of the Third Kind,1977,138 ,7.6,90        ,"215,376",$132.09M,Steven Spielberg,Richard Dreyfuss,Drama
+16,"Il buono, il brutto, il cattivo",1966,161 ,8.8,90        ,"805,247",$6.10M,Sergio Leone,Clint Eastwood,Adventure
+17,Glengarry Glen Ross,1992,100 ,7.7,84        ,"115,057",$10.73M,James Foley,Al Pacino,Crime
+18,The Wolf of Wall Street,2013,180 ,8.2,75        ,"1,564,495",$116.90M,Martin Scorsese,Leonardo DiCaprio,Biography
+19,Road to Perdition,2002,117 ,7.7,72        ,"283,069",$104.45M,Sam Mendes,Tom Hanks,Crime
+20,Up,2009,96 ,8.3,88        ,"1,115,336",$293.00M,Pete Docter,Bob Peterson,Animation
+21,Natural Born Killers,1994,119 ,7.2,74        ,"250,315",$50.28M,Oliver Stone,Woody Harrelson,Action
+22,Out of Sight,1998,123 ,7,84        ,"98,498",$37.56M,Steven Soderbergh,George Clooney,Comedy
+23,The Bourne Identity,2002,119 ,7.8,68        ,"573,195",$121.66M,Doug Liman,Franka Potente,Action
+24,An American Werewolf in London,1981,97 ,7.5,55        ,"119,391",$30.57M,John Landis,David Naughton,Comedy
+25,United 93,2006,111 ,7.6,90        ,"110,601",$31.57M,Paul Greengrass,David Alan Basche,Action
+26,Full Metal Jacket,1987,116 ,8.3,78        ,"785,156",$46.36M,Stanley Kubrick,Matthew Modine,Drama
+27,The General,1998,124 ,7.2,81        ,"9,215",$1.21M,John Boorman,Brendan Gleeson,Biography
+28,The Deer Hunter,1978,183 ,8.1,89        ,"359,974",$48.98M,Michael Cimino,Robert De Niro,Drama
+29,Desperado,1995,104 ,7.1,55        ,"196,640",$25.63M,Robert Rodriguez,Antonio Banderas,Action
+30,Interview with the Vampire: The Vampire Chronicles,1994,123 ,7.5,62        ,"345,048",$105.26M,Neil Jordan,Brad Pitt,Drama
+31,Things to Do in Denver When You're Dead,1995,115 ,6.7,45        ,"29,651",$0.53M,Gary Fleder,Andy Garcia,Crime
+32,Little Miss Sunshine,2006,101 ,7.8,80        ,"514,619",$59.89M,Jonathan Dayton,Valerie Faris,Comedy
+33,Carlito's Way,1993,144 ,7.9,66        ,"231,075",$36.95M,Brian De Palma,Al Pacino,Crime
+34,Casino Royale,2006,144 ,8,80        ,"690,843",$167.45M,Martin Campbell,Daniel Craig,Action
+35,Dirty Harry,1971,102 ,7.7,87        ,"167,332",$35.90M,Don Siegel,Clint Eastwood,Action
+36,Gremlins,1984,106 ,7.3,70        ,"246,168",$148.17M,Joe Dante,Zach Galligan,Comedy
+37,Butch Cassidy and the Sundance Kid,1969,110 ,8,66        ,"225,808",$102.31M,George Roy Hill,Paul Newman,Biography
+38,Ocean's Eleven,2001,116 ,7.7,74        ,"613,850",$183.42M,Steven Soderbergh,George Clooney,Crime
+39,The Lord of the Rings: The Two Towers,2002,179 ,8.8,87        ,"1,768,420",$342.55M,Peter Jackson,Elijah Wood,Action
+40,Amores perros,2000,154 ,8.1,83        ,"251,734",$5.38M,Alejandro G. Iñárritu,Emilio Echevarría,Drama
+41,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,84 ,7.4,89        ,"438,942",$128.51M,Larry Charles,Sacha Baron Cohen,Comedy            
+42,Austin Powers: The Spy Who Shagged Me,1999,95 ,6.6,59        ,"247,477",$206.04M,Jay Roach,Mike Myers,Action
+43,Batman Returns,1992,126 ,7.1,68        ,"325,377",$162.83M,Tim Burton,Michael Keaton,Action
+44,The Virgin Suicides,1999,97 ,7.2,77        ,"167,918",$4.86M,Sofia Coppola,Kirsten Dunst,Drama
+45,28 Days Later...,2002,113 ,7.5,73        ,"441,593",$45.06M,Danny Boyle,Cillian Murphy,Drama
+46,The Life Aquatic with Steve Zissou,2004,119 ,7.2,62        ,"209,990",$24.01M,Wes Anderson,Bill Murray,Action
+47,Requiem for a Dream,2000,102 ,8.3,71        ,"892,770",$3.64M,Darren Aronofsky,Ellen Burstyn,Drama            
+48,The Italian Job,1969,99 ,7.2,70        ,"50,017",nan,Peter Collinson,Michael Caine,Action
+49,Get Carter,1971,112 ,7.3,80        ,"36,514",$0.39M,Mike Hodges,Michael Caine,Action
+50,The Rules of Attraction,2002,110 ,6.6,50        ,"53,172",$6.53M,Roger Avary,James Van Der Beek,Comedy
+51,Zodiac,2007,157 ,7.7,79        ,"592,393",$33.08M,David Fincher,Jake Gyllenhaal,Crime
+52,Hot Fuzz,2007,121 ,7.8,81        ,"532,505",$23.64M,Edgar Wright,Simon Pegg,Action
+53,"O Brother, Where Art Thou?",2000,107 ,7.7,69        ,"328,947",$45.51M,Joel Coen,Ethan Coen,Adventure
+54,Braindead,1992,104 ,7.5,54        ,"102,707",$0.24M,Peter Jackson,Timothy Balme,Comedy
+55,Dumb and Dumber,1994,107 ,7.3,41        ,"408,875",$127.18M,Peter Farrelly,Bobby Farrelly,Comedy            
+56,The Jungle Book,1967,78 ,7.6,65        ,"197,259",$141.84M,Wolfgang Reitherman,Phil Harris,Animation
+57,The Bourne Ultimatum,2007,115 ,8,85        ,"655,905",$227.47M,Paul Greengrass,Matt Damon,Action
+58,Shallow Grave,1994,89 ,7.3,67        ,"65,857",$2.88M,Danny Boyle,Kerry Fox,Crime
+59,From Dusk Till Dawn,1996,108 ,7.2,48        ,"337,898",$25.75M,Robert Rodriguez,Harvey Keitel,Action
+60,Gone with the Wind,1939,238 ,8.2,97        ,"332,164",$198.68M,Victor Fleming,George Cukor,Drama
+61,American Pie,1999,95 ,7,58        ,"431,090",$102.56M,Paul Weitz,Chris Weitz,Comedy            
+62,Slumdog Millionaire,2008,120 ,8,84        ,"874,170",$141.32M,Danny Boyle,Loveleen Tandan,Crime
+63,On the Waterfront,1954,108 ,8.1,91        ,"163,647",$9.60M,Elia Kazan,Marlon Brando,Crime
+64,Snatch,2000,104 ,8.2,55        ,"903,390",$30.33M,Guy Ritchie,Jason Statham,Comedy
+65,The Naked Gun: From the Files of Police Squad!,1988,85 ,7.6,76        ,"183,158",$78.76M,David Zucker,Leslie Nielsen,Comedy
+66,National Lampoon's Animal House,1978,109 ,7.4,79        ,"128,557",nan,John Landis,John Belushi,Comedy            
+67,Three Kings,1999,114 ,7.1,82        ,"179,693",$60.65M,David O. Russell,George Clooney,Action
+68,In Bruges,2008,107 ,7.9,67        ,"459,002",$7.76M,Martin McDonagh,Colin Farrell,Comedy
+69,Toy Story 3,2010,103 ,8.3,92        ,"886,705",$415.00M,Lee Unkrich,Tom Hanks,Animation
+70,Cloverfield,2008,85 ,7,64        ,"418,398",$80.05M,Matt Reeves,Mike Vogel,Horror
+71,Dawn of the Dead,1978,127 ,7.8,71        ,"127,795",$5.10M,George A. Romero,David Emge,Horror
+72,Quiz Show,1994,133 ,7.5,92        ,"72,970",$24.82M,Robert Redford,Ralph Fiennes,Biography
+73,Dalkomhan insaeng,2005,119 ,7.5,nan,"42,711",nan,Jung Doo Hong,Jee-woon Kim,Action
+74,The Sixth Sense,1999,107 ,8.2,64        ,"1,044,398",$293.51M,M. Night Shyamalan,Bruce Willis,Drama
+75,The Long Good Friday,1980,114 ,7.6,82        ,"25,158",nan,John Mackenzie,Bob Hoskins,Crime
+76,Juno,2007,96 ,7.5,81        ,"546,693",$143.50M,Jason Reitman,Elliot Page,Comedy
+77,Planet of the Apes,1968,112 ,8,79        ,"191,468",$33.40M,Franklin J. Schaffner,Charlton Heston,Adventure
+78,Kiss Kiss Bang Bang,2005,103 ,7.5,73        ,"236,446",$4.24M,Shane Black,Robert Downey Jr.,Comedy
+79,Jackie Brown,1997,154 ,7.5,62        ,"371,905",$39.67M,Quentin Tarantino,Pam Grier,Crime
+80,Sideways,2004,127 ,7.5,94        ,"202,881",$71.50M,Alexander Payne,Paul Giamatti,Comedy
+81,Edward Scissorhands,1990,105 ,7.9,74        ,"520,687",$56.36M,Tim Burton,Johnny Depp,Drama
+82,The Thin Red Line,1998,170 ,7.6,78        ,"198,470",$36.40M,Terrence Malick,Jim Caviezel,Drama
+83,Hotel Rwanda,2004,121 ,8.1,79        ,"370,349",$23.53M,Terry George,Don Cheadle,Biography
+84,Sexy Beast,2000,89 ,7.3,79        ,"67,642",$6.95M,Jonathan Glazer,Ray Winstone,Crime
+85,Swingers,1996,96 ,7.2,71        ,"87,689",$4.51M,Doug Liman,Vince Vaughn,Comedy
+86,Le fabuleux destin d'Amélie Poulain,2001,122 ,8.3,70        ,"790,477",$33.23M,Jean-Pierre Jeunet,Audrey Tautou,Comedy
+87,Män som hatar kvinnor,2009,152 ,7.8,76        ,"222,655",$10.10M,Niels Arden Oplev,Michael Nyqvist,Crime
+88,Nuovo Cinema Paradiso,1988,174 ,8.5,80        ,"280,477",$11.99M,Giuseppe Tornatore,Philippe Noiret,Drama
+89,Witness for the Prosecution,1957,116 ,8.4,76        ,"136,403",$8.18M,Billy Wilder,Tyrone Power,Crime
+90,The Apartment,1960,125 ,8.3,94        ,"195,141",$18.60M,Billy Wilder,Jack Lemmon,Comedy
+91,Meet the Parents,2000,108 ,7,73        ,"353,308",$166.24M,Jay Roach,Ben Stiller,Comedy
+92,The Right Stuff,1983,193 ,7.8,91        ,"65,042",$21.50M,Philip Kaufman,Sam Shepard,Adventure
+93,Catch Me If You Can,2002,141 ,8.1,75        ,"1,083,165",$164.62M,Steven Spielberg,Leonardo DiCaprio,Biography
+94,Saturday Night Fever,1977,118 ,6.8,77        ,"86,801",$94.21M,John Badham,John Travolta,Drama
+95,Anchorman: The Legend of Ron Burgundy,2004,94 ,7.1,63        ,"376,650",$85.29M,Adam McKay,Will Ferrell,Comedy            
+96,Happiness,1998,134 ,7.7,81        ,"74,041",$2.81M,Todd Solondz,Jane Adams,Comedy
+97,Knocked Up,2007,129 ,6.9,85        ,"383,016",$148.73M,Judd Apatow,Seth Rogen,Comedy
+98,District 9,2009,112 ,7.9,81        ,"713,379",$115.65M,Neill Blomkamp,Sharlto Copley,Action
+99,Fahrenheit 9/11,2004,122 ,7.5,67        ,"132,134",$119.19M,Michael Moore,Michael Moore,Documentary
+0,Star Trek,2009,127 ,7.9,82        ,"618,586",$257.73M,J.J. Abrams,Chris Pine,Action
+1,Senna,2010,106 ,8.5,79        ,"75,271",$1.61M,Asif Kapadia,Ayrton Senna,Documentary
+2,Serbuan maut,2011,101 ,7.6,73        ,"215,965",$4.11M,Gareth Evans,Iko Uwais,Action
+3,Brick,2005,110 ,7.1,72        ,"109,788",$2.06M,Rian Johnson,Joseph Gordon-Levitt,Crime
+4,The Lives of Others,2006,137 ,8.4,89        ,"407,906",$11.29M,Florian Henckel von Donnersmarck,Ulrich Mühe,Drama
+5,When We Were Kings,1996,88 ,7.9,83        ,"19,026",$2.79M,Leon Gast,Muhammad Ali,Documentary
+6,Groundhog Day,1993,101 ,8,72        ,"680,000",$70.91M,Harold Ramis,Bill Murray,Comedy
+7,All the President's Men,1976,138 ,7.9,84        ,"125,211",$70.60M,Alan J. Pakula,Dustin Hoffman,Drama
+8,A Quiet Place,2018,90 ,7.5,82        ,"578,097",$188.02M,John Krasinski,Emily Blunt,Drama
+9,Unbreakable,2000,106 ,7.3,62        ,"438,631",$95.01M,M. Night Shyamalan,Bruce Willis,Drama
+10,Pan's Labyrinth,2006,118 ,8.2,98        ,"699,435",$37.63M,Guillermo del Toro,Ivana Baquero,Drama
+11,Hugo,2011,126 ,7.5,83        ,"335,693",$73.86M,Martin Scorsese,Asa Butterfield,Adventure
+12,Sunshine,2007,107 ,7.2,64        ,"265,526",$3.68M,Danny Boyle,Cillian Murphy,Sci-Fi
+13,The King of Kong,2007,79 ,8,83        ,"37,504",$0.68M,Seth Gordon,Steve Wiebe,Documentary
+14,The People vs. Larry Flynt,1996,130 ,7.3,79        ,"100,272",$20.19M,Milos Forman,Woody Harrelson,Biography
+15,Superbad,2007,113 ,7.6,76        ,"627,322",$121.46M,Greg Mottola,Michael Cera,Comedy            
+16,Serenity,2005,119 ,7.8,74        ,"304,785",$25.51M,Joss Whedon,Nathan Fillion,Action
+17,Night of the Living Dead,1968,96 ,7.8,89        ,"138,236",$0.09M,George A. Romero,Duane Jones,Horror
+18,Austin Powers: International Man of Mystery,1997,94 ,7,51        ,"255,678",$53.88M,Jay Roach,Mike Myers,Adventure
+19,28 Weeks Later,2007,100 ,6.9,78        ,"291,914",$28.64M,Juan Carlos Fresnadillo,Jeremy Renner,Horror
+20,The Thin Blue Line,1988,101 ,8,79        ,"25,748",$1.21M,Errol Morris,Randall Adams,Documentary
+21,Dog Soldiers,2002,105 ,6.8,nan,"65,279",nan,Neil Marshall,Sean Pertwee,Action
+22,Dead Poets Society,1989,128 ,8.1,79        ,"539,505",$95.86M,Peter Weir,Robin Williams,Comedy
+23,Get Shorty,1995,105 ,6.9,81        ,"88,484",$72.08M,Barry Sonnenfeld,Gene Hackman,Comedy
+24,Bad Santa,2003,92 ,7.1,70        ,"154,728",$60.06M,Terry Zwigoff,Billy Bob Thornton,Comedy
+25,Ghostbusters,1984,105 ,7.8,71        ,"442,142",$238.63M,Ivan Reitman,Bill Murray,Action
+26,Donnie Brasco,1997,127 ,7.7,77        ,"330,107",$41.91M,Mike Newell,Al Pacino,Biography
+27,Top Gun,1986,109 ,6.9,50        ,"498,050",$179.80M,Tony Scott,Tom Cruise,Action
+28,(500) Days of Summer,2009,95 ,7.7,76        ,"553,025",$32.39M,Marc Webb,Zooey Deschanel,Comedy
+29,Chopper,2000,94 ,7.1,68        ,"41,201",$0.23M,Andrew Dominik,Eric Bana,Biography
+30,The Breakfast Club,1985,97 ,7.8,66        ,"433,243",$45.88M,John Hughes,Emilio Estevez,Comedy
+31,Grosse Pointe Blank,1997,107 ,7.3,76        ,"99,183",$28.01M,George Armitage,John Cusack,Action
+32,John Wick: Chapter 3 - Parabellum,2019,130 ,7.4,73        ,"421,415",$171.02M,Chad Stahelski,Keanu Reeves,Action
+33,The Dirty Dozen,1967,150 ,7.7,73        ,"78,677",$45.30M,Robert Aldrich,Lee Marvin,Action
+34,To Kill a Mockingbird,1962,129 ,8.3,88        ,"331,068",nan,Robert Mulligan,Gregory Peck,Crime
+35,Harold and Maude,1971,91 ,7.9,62        ,"81,457",nan,Hal Ashby,Ruth Gordon,Comedy
+36,Vals Im Bashir,2008,90 ,8,91        ,"60,185",$2.28M,Ari Folman,Ari Folman,Documentary
+37,Shame,2011,101 ,7.2,72        ,"205,352",$4.00M,Steve McQueen,Michael Fassbender,Drama            
+38,Kill Bill: Vol. 2,2004,137 ,8,83        ,"798,947",$66.21M,Quentin Tarantino,Uma Thurman,Action
+39,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143 ,8.1,63        ,"1,200,602",$305.41M,Gore Verbinski,Johnny Depp,Action
+40,Bottle Rocket,1996,91 ,6.9,67        ,"83,146",$0.56M,Wes Anderson,Luke Wilson,Comedy
+41,Star Wars: Episode V - The Empire Strikes Back,1980,124 ,8.7,82        ,"1,369,217",$290.48M,Irvin Kershner,Mark Hamill,Action
+42,Jackass: The Movie,2002,85 ,6.6,42        ,"101,775",$64.26M,Jeff Tremaine,Johnny Knoxville,Documentary
+43,Point Break,1991,122 ,7.3,59        ,"199,927",$43.22M,Kathryn Bigelow,Patrick Swayze,Action
+44,The Squid and the Whale,2005,81 ,7.3,82        ,"89,834",$7.36M,Noah Baumbach,Owen Kline,Comedy
+45,Network,1976,121 ,8.1,83        ,"169,318",nan,Sidney Lumet,Faye Dunaway,Drama            
+46,The Irishman,2019,209 ,7.8,94        ,"427,199",$7.00M,Martin Scorsese,Robert De Niro,Biography
+47,Once Upon a Time in the West,1968,166 ,8.5,82        ,"347,227",$5.32M,Sergio Leone,Henry Fonda,Western            
+48,RoboCop,1987,102 ,7.6,70        ,"280,661",$53.42M,Paul Verhoeven,Peter Weller,Action
+49,Bonnie and Clyde,1967,111 ,7.7,86        ,"119,961",nan,Arthur Penn,Warren Beatty,Action
+50,"South Park: Bigger, Longer & Uncut",1999,81 ,7.7,73        ,"214,050",$52.04M,Trey Parker,Trey Parker,Animation
+51,The Texas Chain Saw Massacre,1974,83 ,7.4,90        ,"181,897",$30.86M,Tobe Hooper,Marilyn Burns,Horror            
+52,Dodgeball: A True Underdog Story,2004,92 ,6.7,55        ,"265,589",$114.33M,Rawson Marshall Thurber,Ben Stiller,Comedy
+53,La piel que habito,2011,120 ,7.6,70        ,"164,641",$3.19M,Pedro Almodóvar,Antonio Banderas,Drama
+54,Ruby Sparks,2012,104 ,7.2,67        ,"105,130",$2.54M,Jonathan Dayton,Valerie Faris,Comedy
+55,Layer Cake,2004,105 ,7.3,73        ,"194,342",$2.34M,Matthew Vaughn,Daniel Craig,Action
+56,Rounders,1998,121 ,7.3,53        ,"159,427",$22.91M,John Dahl,Matt Damon,Crime
+57,Superman,1978,143 ,7.4,82        ,"186,433",$134.22M,Richard Donner,Christopher Reeve,Action
+58,Day of the Dead,1985,101 ,7.1,60        ,"73,933",$5.80M,George A. Romero,Lori Cardille,Horror
+59,Marathon Man,1976,125 ,7.4,64        ,"69,754",$21.71M,John Schlesinger,Dustin Hoffman,Crime
+60,Midnight Cowboy,1969,113 ,7.8,79        ,"119,569",$44.79M,John Schlesinger,Dustin Hoffman,Drama            
+61,Life of Brian,1979,94 ,8,77        ,"420,351",$20.05M,Terry Jones,Graham Chapman,Comedy            
+62,Raising Arizona,1987,94 ,7.3,69        ,"149,150",$22.85M,Joel Coen,Ethan Coen,Comedy
+63,Moon,2009,97 ,7.8,67        ,"374,954",$5.01M,Duncan Jones,Sam Rockwell,Drama
+64,Clerks,1994,92 ,7.7,70        ,"231,472",$3.15M,Kevin Smith,Brian O'Halloran,Comedy            
+65,Drag Me to Hell,2009,99 ,6.6,83        ,"216,407",$42.10M,Sam Raimi,Alison Lohman,Horror            
+66,Brazil,1985,132 ,7.9,84        ,"210,348",$9.93M,Terry Gilliam,Jonathan Pryce,Drama
+67,The Bourne Supremacy,2004,108 ,7.7,73        ,"484,634",$176.24M,Paul Greengrass,Matt Damon,Action
+68,Trois couleurs: Rouge,1994,99 ,8.1,100        ,"109,345",$4.04M,Krzysztof Kieslowski,Irène Jacob,Drama
+69,A History of Violence,2005,96 ,7.4,82        ,"251,411",$31.49M,David Cronenberg,Viggo Mortensen,Action
+70,The Hangover,2009,100 ,7.7,73        ,"839,069",$277.32M,Todd Phillips,Zach Galifianakis,Comedy            
+71,Scott Pilgrim vs. the World,2010,112 ,7.6,69        ,"462,658",$31.49M,Edgar Wright,Michael Cera,Action
+72,The Producers,1967,88 ,7.5,96        ,"59,369",$0.11M,Mel Brooks,Zero Mostel,Comedy
+73,Animal Kingdom,2010,113 ,7.2,83        ,"60,211",$1.04M,David Michôd,James Frecheville,Crime
+74,The Hudsucker Proxy,1994,111 ,7.2,53        ,"84,689",$2.87M,Joel Coen,Ethan Coen,Comedy
+75,Jerry Maguire,1996,139 ,7.3,77        ,"285,141",$153.95M,Cameron Crowe,Tom Cruise,Comedy
+76,Speed,1994,116 ,7.3,78        ,"389,139",$121.25M,Jan de Bont,Keanu Reeves,Action
+77,True Grit,2010,110 ,7.6,80        ,"355,864",$171.24M,Ethan Coen,Joel Coen,Drama
+78,Cool Hand Luke,1967,127 ,8.1,92        ,"187,517",$16.22M,Stuart Rosenberg,Paul Newman,Crime
+79,Zombieland,2009,88 ,7.5,73        ,"616,818",$75.59M,Ruben Fleischer,Jesse Eisenberg,Action
+80,American: The Bill Hicks Story,2009,102 ,7.7,55        ,"4,995",$0.09M,Matt Harlock,Paul Thomas,Documentary
+81,Crash, 2004,112 ,7.7,66        ,"447,827",$54.58M,Paul Haggis,Don Cheadle,Crime
+82,The Graduate,1967,106 ,8,83        ,"287,187",$104.95M,Mike Nichols,Dustin Hoffman,Comedy
+83,A Bronx Tale,1993,121 ,7.8,80        ,"159,111",$17.27M,Robert De Niro,Robert De Niro,Crime
+84,Låt den rätte komma in,2008,114 ,7.8,82        ,"225,928",$2.12M,Tomas Alfredson,Kåre Hedebrant,Drama
+85,As Good as It Gets,1997,139 ,7.7,67        ,"316,645",$148.48M,James L. Brooks,Jack Nicholson,Comedy
+86,Das Boot,1981,149 ,8.4,85        ,"262,909",$11.49M,Wolfgang Petersen,Jürgen Prochnow,Drama
+87,A Serious Man,2009,106 ,7,88        ,"149,125",$9.19M,Ethan Coen,Joel Coen,Comedy
+88,The Fly,1986,96 ,7.6,81        ,"200,223",$40.46M,David Cronenberg,Jeff Goldblum,Drama
+89,The Wrestler,2008,109 ,7.9,80        ,"318,720",$26.24M,Darren Aronofsky,Mickey Rourke,Drama
+90,Titanic,1997,194 ,7.9,75        ,"1,270,949",$659.33M,James Cameron,Leonardo DiCaprio,Drama
+91,Finding Nemo,2003,100 ,8.2,90        ,"1,105,248",$380.84M,Andrew Stanton,Lee Unkrich,Animation
+92,The Fugitive,1993,130 ,7.8,87        ,"316,144",$183.88M,Andrew Davis,Harrison Ford,Action
+93,Star Wars,1977,121 ,8.6,90        ,"1,439,714",$322.74M,George Lucas,Mark Hamill,Action
+94,The Hustler,1961,134 ,8,90        ,"86,411",$8.28M,Robert Rossen,Paul Newman,Drama
+95,Per un pugno di dollari,1964,99 ,7.9,65        ,"230,871",$14.50M,Sergio Leone,Clint Eastwood,Action
+96,Don't Look Now,1973,110 ,7.1,95        ,"61,847",$0.98M,Nicolas Roeg,Julie Christie,Drama
+97,Fantastic Mr. Fox,2009,87 ,7.9,83        ,"267,268",$21.00M,Wes Anderson,George Clooney,Animation
+98,The Mist,2007,126 ,7.1,58        ,"337,375",$25.59M,Frank Darabont,Thomas Jane,Horror
+99,Field of Dreams,1989,107 ,7.5,57        ,"127,041",$64.43M,Phil Alden Robinson,Kevin Costner,Drama
+0,Rise of the Planet of the Apes,2011,105 ,7.6,68        ,"554,691",$176.76M,Rupert Wyatt,James Franco,Action
+1,Moneyball,2011,133 ,7.6,87        ,"460,759",$75.61M,Bennett Miller,Brad Pitt,Biography
+2,Jackass Number Two,2006,92 ,7,66        ,"79,896",$72.78M,Jeff Tremaine,Johnny Knoxville,Documentary
+3,The Fighter, 2010,116 ,7.8,79        ,"387,040",$93.62M,David O. Russell,Mark Wahlberg,Action
+4,Mud,2012,130 ,7.4,76        ,"187,963",$21.59M,Jeff Nichols,Matthew McConaughey,Adventure
+5,Hodejegerne,2011,100 ,7.5,72        ,"106,584",$1.20M,Morten Tyldum,Aksel Hennie,Action
+6,This Is the End,2013,107 ,6.6,67        ,"432,934",$101.47M,Evan Goldberg,Seth Rogen,Comedy
+7,Gone Girl,2014,149 ,8.1,79        ,"1,058,301",$167.77M,David Fincher,Ben Affleck,Drama
+8,Guardians of the Galaxy,2014,121 ,8,76        ,"1,265,056",$333.18M,James Gunn,Chris Pratt,Action
+9,Serbuan maut 2: Berandal,2014,150 ,7.9,71        ,"130,674",$2.63M,Gareth Evans,Iko Uwais,Action
+10,Mad Max: Fury Road,2015,120 ,8.1,90        ,"1,075,496",$154.06M,George Miller,Tom Hardy,Action
+11,The Descent,2005,99 ,7.2,71        ,"244,818",$26.02M,Neil Marshall,Shauna Macdonald,Adventure
+12,Patriots Day,2016,133 ,7.3,69        ,"111,753",$31.89M,Peter Berg,Mark Wahlberg,Action
+13,2001: A Space Odyssey,1968,149 ,8.3,84        ,"713,849",$56.95M,Stanley Kubrick,Keir Dullea,Adventure
+14,Insomnia,2002,118 ,7.2,78        ,"316,404",$67.36M,Christopher Nolan,Al Pacino,Drama
+15,Capturing the Friedmans,2003,107 ,7.6,90        ,"26,968",$3.12M,Andrew Jarecki,Arnold Friedman,Documentary
+16,The Curious Case of Benjamin Button,2008,166 ,7.8,70        ,"691,581",$127.51M,David Fincher,Brad Pitt,Drama
+17,Batman,1989,126 ,7.5,69        ,"401,669",$251.19M,Tim Burton,Michael Keaton,Action
+18,Sleepy Hollow,1999,105 ,7.3,65        ,"381,897",$101.07M,Tim Burton,Johnny Depp,Fantasy
+19,The Third Man,1949,104 ,8.1,97        ,"180,672",$0.45M,Carol Reed,Orson Welles,Film-Noir
+20,Spider-Man 2,2004,127 ,7.5,83        ,"701,921",$373.59M,Sam Raimi,Tobey Maguire,Action
+21,24 Hour Party People,2002,117 ,7.3,85        ,"39,393",$1.13M,Michael Winterbottom,Steve Coogan,Biography
+22,The Blair Witch Project,1999,81 ,6.5,80        ,"283,004",$140.54M,Daniel Myrick,Eduardo Sánchez,Horror
+23,End of Watch,2012,109 ,7.6,68        ,"266,930",$41.00M,David Ayer,Jake Gyllenhaal,Action
+24,WALL·E,2008,98 ,8.4,95        ,"1,190,745",$223.81M,Andrew Stanton,Ben Burtt,Animation
+25,The Imposter,2012,99 ,7.5,77        ,"50,190",$0.89M,Bart Layton,Adam O'Brian,Documentary
+26,Salvador,1986,122 ,7.4,69        ,"23,010",nan,Oliver Stone,James Woods,Drama
+27,X2,2003,134 ,7.4,68        ,"573,064",$214.95M,Bryan Singer,Patrick Stewart,Action
+28,Spider-Man,2002,121 ,7.4,73        ,"872,194",$403.71M,Sam Raimi,Tobey Maguire,Action
+29,North by Northwest,1959,136 ,8.3,98        ,"344,181",$13.28M,Alfred Hitchcock,Cary Grant,Action
+30,Inside Man,2006,129 ,7.6,76        ,"395,167",$88.51M,Spike Lee,Denzel Washington,Crime
+31,Face/Off,1997,138 ,7.3,82        ,"398,575",$112.23M,John Woo,John Travolta,Action
+32,The Lego Movie,2014,100 ,7.7,83        ,"385,688",$257.76M,Phil Lord,Christopher Miller,Animation
+33,Batoru rowaiaru,2000,114 ,7.5,81        ,"193,450",nan,Kinji Fukasaku,Tatsuya Fujiwara,Action
+34,Mission: Impossible - Ghost Protocol,2011,132 ,7.4,73        ,"525,825",$209.40M,Brad Bird,Tom Cruise,Action
+35,Mission: Impossible,1996,110 ,7.2,59        ,"467,425",$180.98M,Brian De Palma,Tom Cruise,Action
+36,Collateral,2004,120 ,7.5,71        ,"430,517",$101.01M,Michael Mann,Tom Cruise,Action
+37,Live Die Repeat: Edge of Tomorrow,2014,113 ,7.9,71        ,"730,287",$100.21M,Doug Liman,Tom Cruise,Action
+38,Snowpiercer,2013,126 ,7.1,84        ,"386,605",$4.56M,Bong Joon Ho,Chris Evans,Action
+39,Blade,1998,120 ,7.1,47        ,"296,262",$70.09M,Stephen Norrington,Wesley Snipes,Action
+40,The Artist, 2011,100 ,7.9,89        ,"247,953",$44.67M,Michel Hazanavicius,Jean Dujardin,Comedy
+41,The Crying Game,1992,112 ,7.2,90        ,"59,747",$62.55M,Neil Jordan,Stephen Rea,Crime
+42,Grizzly Man,2005,103 ,7.8,87        ,"61,367",$3.17M,Werner Herzog,Timothy Treadwell,Documentary
+43,Starship Troopers,1997,129 ,7.3,52        ,"317,138",$54.81M,Paul Verhoeven,Casper Van Dien,Action
+44,Dig!,2004,107 ,7.7,76        ,"6,650",$0.13M,Ondi Timoner,Anton Newcombe,Documentary
+45,Caché,2005,117 ,7.3,87        ,"84,732",$3.63M,Michael Haneke,Daniel Auteuil,Drama
+46,Idi i smotri,1985,142 ,8.4,nan,"95,153",nan,Elem Klimov,Aleksey Kravchenko,Drama
+47,Jûsan-nin no shikaku,2010,141 ,7.5,84        ,"68,270",$0.80M,Takashi Miike,Koji Yakusho,Action
+48,Gone Baby Gone,2007,114 ,7.6,72        ,"290,825",$20.30M,Ben Affleck,Morgan Freeman,Crime
+49,Rango,2011,107 ,7.3,75        ,"290,719",$123.48M,Gore Verbinski,Johnny Depp,Animation
+50,Trois couleurs: Blanc,1994,92 ,7.6,91        ,"79,031",$1.46M,Krzysztof Kieslowski,Zbigniew Zamachowski,Comedy
+51,Murderball,2005,88 ,7.7,87        ,"10,437",$1.52M,Henry Alex Rubin,Dana Adam Shapiro,Documentary
+52,Dogville,2003,178 ,8,61        ,"157,770",$1.53M,Lars von Trier,Nicole Kidman,Crime
+53,Blow Out,1981,108 ,7.4,86        ,"62,132",$13.75M,Brian De Palma,John Travolta,Crime
+54,Marley,2012,144 ,7.9,82        ,"14,358",$1.41M,Kevin Macdonald,Bob Marley,Documentary
+55,American Splendor,2003,101 ,7.4,90        ,"52,041",$6.00M,Shari Springer Berman,Robert Pulcini,Biography
+56,Changeling,2008,141 ,7.8,63        ,"264,484",$35.74M,Clint Eastwood,Angelina Jolie,Biography
+57,Braveheart,1995,178 ,8.3,68        ,"1,085,403",$75.60M,Mel Gibson,Mel Gibson,Biography
+58,The Fisher King,1991,137 ,7.5,67        ,"90,416",$41.90M,Terry Gilliam,Jeff Bridges,Comedy
+59,Wild at Heart,1990,125 ,7.2,52        ,"100,247",$14.56M,David Lynch,Nicolas Cage,Crime
+60,Control,2007,122 ,7.6,78        ,"68,287",$0.87M,Anton Corbijn,Sam Riley,Biography
+61,In the Loop,2009,106 ,7.4,83        ,"61,294",$2.38M,Armando Iannucci,Tom Hollander,Comedy            
+62,Cop Land,1997,105 ,7,64        ,"105,583",$44.89M,James Mangold,Sylvester Stallone,Crime
+63,Oldeuboi,2003,101 ,8.3,78        ,"629,552",$0.71M,Park Chan-wook,Choi Min-sik,Action
+64,Black Swan,2010,108 ,8,79        ,"818,960",$106.95M,Darren Aronofsky,Natalie Portman,Drama
+65,Salinui chueok,2003,131 ,8.1,82        ,"212,984",$0.01M,Bong Joon Ho,Song Kang-ho,Crime
+66,Willy Wonka & the Chocolate Factory,1971,100 ,7.8,67        ,"224,475",$4.00M,Mel Stuart,Gene Wilder,Family
+67,Argo,2012,120 ,7.7,86        ,"636,578",$136.03M,Ben Affleck,Ben Affleck,Biography
+68,Dawn of the Planet of the Apes,2014,130 ,7.6,79        ,"465,198",$208.55M,Matt Reeves,Gary Oldman,Action
+69,The Taking of Pelham One Two Three,1974,104 ,7.6,68        ,"35,089",$2.49M,Joseph Sargent,Walter Matthau,Action
+70,50/50,2011,100 ,7.6,72        ,"342,098",$35.01M,Jonathan Levine,Joseph Gordon-Levitt,Comedy
+71,Notting Hill,1999,124 ,7.2,68        ,"339,290",$116.09M,Roger Michell,Hugh Grant,Comedy
+72,The Grand Budapest Hotel,2014,99 ,8.1,88        ,"879,546",$59.10M,Wes Anderson,Ralph Fiennes,Adventure
+73,The Proposition,2005,104 ,7.3,73        ,"54,799",$1.90M,John Hillcoat,Ray Winstone,Crime
+74,Bernie,2011,99 ,6.8,75        ,"63,098",$9.20M,Richard Linklater,Jack Black,Biography
+75,The Aviator,2004,170 ,7.5,77        ,"382,212",$102.61M,Martin Scorsese,Leonardo DiCaprio,Biography
+76,Knuckle,2011,97 ,6.8,65        ,"3,216",$0.00M,Ian Palmer,James Quinn McDonagh,Documentary
+77,Paths of Glory,1957,88 ,8.4,90        ,"210,761",nan,Stanley Kubrick,Kirk Douglas,Drama
+78,A Hard Day's Night,1964,87 ,7.5,96        ,"47,799",$13.78M,Richard Lester,John Lennon,Comedy
+79,Holy Motors,2012,115 ,7,84        ,"48,678",nan,Leos Carax,Denis Lavant,Drama
+80,Moonrise Kingdom,2012,94 ,7.8,84        ,"365,606",$45.51M,Wes Anderson,Jared Gilman,Adventure
+81,Capitalism: A Love Story,2009,127 ,7.4,61        ,"43,807",$14.36M,Michael Moore,Michael Moore,Documentary
+82,Galaxy Quest,1999,102 ,7.4,70        ,"176,629",$71.58M,Dean Parisot,Tim Allen,Adventure
+83,A Room for Romeo Brass,1999,90 ,7.5,65        ,"6,151",$0.02M,Shane Meadows,Martin Arrowsmith,Comedy
+84,Big,1988,104 ,7.3,73        ,"238,483",$114.97M,Penny Marshall,Tom Hanks,Comedy
+85,L'instinct de mort,2008,113 ,7.5,71        ,"35,182",$0.55M,Jean-François Richet,Vincent Cassel,Action
+86,Performance,1970,105 ,6.7,nan,"11,265",$0.19M,Donald Cammell,Nicolas Roeg,Crime
+87,Michael Clayton,2007,119 ,7.2,82        ,"173,416",$49.03M,Tony Gilroy,George Clooney,Crime
+88,Le cinquième élément,1997,126 ,7.6,52        ,"502,251",$63.54M,Luc Besson,Bruce Willis,Action
+89,Shaun of the Dead,2004,99 ,7.9,76        ,"590,204",$13.54M,Edgar Wright,Simon Pegg,Comedy
+90,The Spy Who Loved Me,1977,125 ,7,55        ,"115,624",$46.80M,Lewis Gilbert,Roger Moore,Action
+91,A Monster Calls,2016,108 ,7.4,76        ,"93,350",$3.74M,J.A. Bayona,Lewis MacDougall,Adventure
+92,"I, Tonya",2017,119 ,7.5,77        ,"240,521",$30.01M,Craig Gillespie,Margot Robbie,Biography
+93,El secreto de sus ojos,2009,129 ,8.2,80        ,"221,084",$6.39M,Juan José Campanella,Ricardo Darín,Drama
+94,Broadcast News,1987,133 ,7.3,84        ,"33,844",$51.25M,James L. Brooks,William Hurt,Comedy
+95,The Goonies,1985,114 ,7.7,62        ,"296,048",$61.50M,Richard Donner,Sean Astin,Adventure
+96,Rebel Without a Cause,1955,111 ,7.6,89        ,"97,386",nan,Nicholas Ray,James Dean,Drama            
+97,Training Day,2001,122 ,7.7,71        ,"469,303",$76.63M,Antoine Fuqua,Denzel Washington,Crime
+98,Coco, 2017,105 ,8.4,81        ,"582,152",$209.73M,Lee Unkrich,Adrian Molina,Animation
+99,Avengers: Infinity War,2018,149 ,8.4,68        ,"1,189,268",$678.82M,Anthony Russo,Joe Russo,Action
+0,Mission: Impossible - Fallout,2018,147 ,7.7,87        ,"375,174",$220.16M,Christopher McQuarrie,Tom Cruise,Action
+1,The Wind That Shakes the Barley,2006,127 ,7.5,82        ,"54,109",$1.83M,Ken Loach,Cillian Murphy,Drama
+2,Cemetery Junction,2010,95 ,6.8,nan,"24,137",nan,Ricky Gervais,Stephen Merchant,Comedy
+3,Before the Devil Knows You're Dead,2007,117 ,7.3,86        ,"110,775",$7.08M,Sidney Lumet,Philip Seymour Hoffman,Crime
+4,Sunset Blvd.,1950,110 ,8.4,94        ,"234,853",nan,Billy Wilder,William Holden,Drama
+5,8 Mile,2002,110 ,7.2,77        ,"318,088",$116.72M,Curtis Hanson,Eminem,Drama
+6,The Incredibles,2004,115 ,8,90        ,"801,152",$261.44M,Brad Bird,Craig T. Nelson,Animation
+7,The Hurt Locker,2008,131 ,7.5,95        ,"471,584",$17.02M,Kathryn Bigelow,Jeremy Renner,Drama
+8,Santa Sangre,1989,123 ,7.5,nan,"23,145",nan,Alejandro Jodorowsky,Axel Jodorowsky,Drama
+9,Gangs of New York,2002,167 ,7.5,72        ,"470,191",$77.81M,Martin Scorsese,Leonardo DiCaprio,Crime
+10,Basic Instinct,1992,127 ,7,43        ,"217,286",$117.73M,Paul Verhoeven,Michael Douglas,Drama
+11,Sing Street,2016,106 ,7.9,79        ,"100,412",$3.24M,John Carney,Ferdia Walsh-Peelo,Comedy
+12,The Omen,1976,111 ,7.5,62        ,"129,885",$4.27M,Richard Donner,Gregory Peck,Horror
+13,Winter's Bone,2010,100 ,7.1,90        ,"149,858",$6.53M,Debra Granik,Jennifer Lawrence,Drama
+14,The Avengers,2012,143 ,8,69        ,"1,452,044",$623.28M,Joss Whedon,Robert Downey Jr.,Action
+15,Die Hard 2,1990,124 ,7.1,67        ,"381,467",$117.54M,Renny Harlin,Bruce Willis,Action
+16,Affliction,1997,114 ,6.9,79        ,"18,875",$6.30M,Paul Schrader,Nick Nolte,Drama
+17,Invasion of the Body Snatchers,1978,115 ,7.4,75        ,"69,173",$24.95M,Philip Kaufman,Donald Sutherland,Horror
+18,American Pie 2,2001,108 ,6.4,43        ,"268,934",$145.10M,J.B. Rogers,Jason Biggs,Comedy            
+19,Buffalo Soldiers,2001,98 ,6.7,56        ,"25,490",$0.35M,Gregor Jordan,Joaquin Phoenix,Comedy
+20,Wolf Creek,2005,99 ,6.2,56        ,"77,811",$16.19M,Greg McLean,Nathan Phillips,Horror
+21,Four Lions,2010,97 ,7.3,68        ,"84,696",$0.30M,Christopher Morris,Will Adamsdale,Comedy
+22,Dip huet seung hung,1989,111 ,7.8,82        ,"50,858",nan,John Woo,Chow Yun-Fat,Action
+23,Say Anything...,1989,100 ,7.3,86        ,"95,419",$20.78M,Cameron Crowe,John Cusack,Comedy
+24,The Insider,1999,157 ,7.8,85        ,"179,311",$28.97M,Michael Mann,Russell Crowe,Biography
+25,Home Alone,1990,103 ,7.7,63        ,"649,030",$285.76M,Chris Columbus,Macaulay Culkin,Comedy
+26,Dances with Wolves,1990,181 ,8,72        ,"288,055",$184.21M,Kevin Costner,Kevin Costner,Adventure
+27,25th Hour,2002,135 ,7.6,69        ,"184,181",$13.06M,Spike Lee,Edward Norton,Drama            
+28,Rosemary's Baby,1968,137 ,8,96        ,"233,384",nan,Roman Polanski,Mia Farrow,Drama
+29,Easy Rider,1969,95 ,7.2,85        ,"116,403",$41.73M,Dennis Hopper,Peter Fonda,Adventure
+30,Exit Through the Gift Shop,2010,87 ,7.9,85        ,"68,586",$3.29M,Banksy,Banksy,Documentary
+31,A.I. Artificial Intelligence,2001,146 ,7.2,65        ,"321,533",$78.62M,Steven Spielberg,Haley Joel Osment,Drama
+32,Total Recall,1990,113 ,7.5,60        ,"351,973",$119.39M,Paul Verhoeven,Arnold Schwarzenegger,Action
+33,Side Effects, 2013,106 ,7.1,75        ,"196,636",$32.17M,Steven Soderbergh,Rooney Mara,Crime
+34,Killer Joe,2011,102 ,6.7,62        ,"82,946",$1.99M,William Friedkin,Matthew McConaughey,Crime
+35,The Queen of Versailles,2012,103 ,7.1,80        ,"13,674",$2.40M,Lauren Greenfield,Jaqueline Siegel,Documentary            
+36,Taxi to the Dark Side,2007,106 ,7.5,82        ,"16,736",$0.27M,Alex Gibney,Alex Gibney,Documentary
+37,Point Blank,1967,92 ,7.3,86        ,"23,038",nan,John Boorman,Lee Marvin,Crime
+38,Back to the Future Part II,1989,108 ,7.8,57        ,"568,647",$118.50M,Robert Zemeckis,Michael J. Fox,Adventure
+39,Leaving Las Vegas,1995,111 ,7.5,82        ,"133,614",$32.03M,Mike Figgis,Nicolas Cage,Drama
+40,Poltergeist,1982,114 ,7.3,79        ,"178,417",$76.61M,Tobe Hooper,JoBeth Williams,Horror
+41,Tinker Tailor Soldier Spy,2011,127 ,7,85        ,"211,465",$24.15M,Tomas Alfredson,Gary Oldman,Drama
+42,The Searchers,1956,119 ,7.8,94        ,"95,613",nan,John Ford,John Wayne,Adventure
+43,The Spectacular Now,2013,95 ,7,82        ,"160,771",$6.85M,James Ponsoldt,Miles Teller,Drama
+44,Deliverance,1972,109 ,7.7,80        ,"118,536",$7.06M,John Boorman,Jon Voight,Adventure
+45,From Russia with Love,1963,115 ,7.3,83        ,"144,481",$24.80M,Terence Young,Sean Connery,Action
+46,American Movie,1999,107 ,7.8,84        ,"19,132",$1.16M,Chris Smith,Mark Borchardt,Documentary
+47,Trois couleurs: Bleu,1993,94 ,7.9,87        ,"109,735",$1.32M,Krzysztof Kieslowski,Juliette Binoche,Drama
+48,"Monsters, Inc.",2001,92 ,8.1,79        ,"971,241",$289.92M,Pete Docter,David Silverman,Animation
+49,Life of Pi,2012,127 ,7.9,79        ,"662,834",$124.99M,Ang Lee,Suraj Sharma,Adventure
+50,Good Vibrations,2012,103 ,7.2,nan,"5,568",nan,Lisa Barros D'Sa,Glenn Leyburn,Biography
+51,Revenge of the Nerds,1984,90 ,6.6,44        ,"58,065",$40.90M,Jeff Kanew,Robert Carradine,Comedy            
+52,Blade Runner,1982,117 ,8.1,84        ,"816,877",$32.87M,Ridley Scott,Harrison Ford,Action
+53,Captain America: The Winter Soldier,2014,136 ,7.7,70        ,"893,818",$259.77M,Anthony Russo,Joe Russo,Action
+54,The Great Escape,1963,172 ,8.2,86        ,"257,347",$12.10M,John Sturges,Steve McQueen,Adventure
+55,The Last Waltz,1978,117 ,8.1,84        ,"19,896",$0.32M,Martin Scorsese,Robbie Robertson,Documentary
+56,Scent of a Woman,1992,156 ,8,57        ,"325,922",$63.90M,Martin Brest,Al Pacino,Drama            
+57,Midnight Run,1988,126 ,7.5,78        ,"93,709",$38.41M,Martin Brest,Robert De Niro,Action
+58,Thief,1981,123 ,7.4,78        ,"38,371",$11.49M,Michael Mann,James Caan,Action
+59,The Elephant Man,1980,124 ,8.2,78        ,"256,758",nan,David Lynch,Anthony Hopkins,Biography
+60,Rocky,1976,120 ,8.1,70        ,"623,740",$117.24M,John G. Avildsen,Sylvester Stallone,Drama
+61,Vertigo,1958,128 ,8.3,100        ,"424,247",$3.20M,Alfred Hitchcock,James Stewart,Mystery
+62,El Topo,1970,125 ,7.2,65        ,"31,181",$0.04M,Alejandro Jodorowsky,Alejandro Jodorowsky,Drama
+63,Kill List,2011,95 ,6.4,67        ,"45,061",$0.03M,Ben Wheatley,Neil Maskell,Action
+64,The Dead Zone,1983,103 ,7.2,69        ,"76,644",$20.77M,David Cronenberg,Christopher Walken,Drama
+65,Mary and Max.,2009,92 ,8.1,nan,"185,858",nan,Adam Elliot,Toni Collette,Animation
+66,Dr. No,1962,110 ,7.2,78        ,"178,465",$16.07M,Terence Young,Sean Connery,Action
+67,GoldenEye,1995,130 ,7.2,65        ,"269,112",$106.60M,Martin Campbell,Pierce Brosnan,Action
+68,Zero Dark Thirty,2012,157 ,7.4,95        ,"317,311",$95.72M,Kathryn Bigelow,Jessica Chastain,Drama
+69,The World's End,2013,109 ,6.9,81        ,"296,973",$26.00M,Edgar Wright,Simon Pegg,Action
+70,Election,1999,103 ,7.3,83        ,"103,845",$14.88M,Alexander Payne,Matthew Broderick,Comedy
+71,Escape from Alcatraz,1979,112 ,7.6,76        ,"146,468",$43.00M,Don Siegel,Clint Eastwood,Action
+72,Un condamné à mort s'est échappé ou Le vent souffle où il veut,1956,101 ,8.2,nan,"24,759",nan,Robert Bresson,François Leterrier,Drama
+73,The Cabin in the Woods,2011,95 ,7,72        ,"447,217",$42.07M,Drew Goddard,Kristen Connolly,Horror
+74,Silver Linings Playbook,2012,122 ,7.7,81        ,"739,208",$132.09M,David O. Russell,Bradley Cooper,Comedy
+75,Rush, 2013,123 ,8.1,74        ,"509,487",$26.95M,Ron Howard,Daniel Brühl,Action
+76,Elf,2003,97 ,7.1,66        ,"309,532",$173.40M,Jon Favreau,Will Ferrell,Adventure
+77,The Abyss,1989,140 ,7.5,62        ,"190,672",$54.46M,James Cameron,Ed Harris,Adventure
+78,Gravity,2013,91 ,7.7,96        ,"859,287",$274.09M,Alfonso Cuarón,Sandra Bullock,Drama
+79,Her,2013,126 ,8,91        ,"664,426",$25.57M,Spike Jonze,Joaquin Phoenix,Drama
+80,Captain Phillips,2013,134 ,7.8,82        ,"489,373",$107.10M,Paul Greengrass,Tom Hanks,Action
+81,Bound,1996,109 ,7.3,64        ,"60,240",$3.80M,Lana Wachowski,Lilly Wachowski,Crime
+82,Half Nelson,2006,106 ,7.1,85        ,"91,417",$2.69M,Ryan Fleck,Ryan Gosling,Drama            
+83,Munich,2005,164 ,7.5,74        ,"237,349",$47.40M,Steven Spielberg,Eric Bana,Action
+84,Traffic,2000,147 ,7.6,86        ,"218,791",$124.12M,Steven Soderbergh,Michael Douglas,Crime
+85,Nightcrawler,2014,117 ,7.8,76        ,"599,282",$32.38M,Dan Gilroy,Jake Gyllenhaal,Crime
+86,X-Men: Days of Future Past,2014,132 ,7.9,75        ,"741,382",$233.92M,Bryan Singer,Patrick Stewart,Action
+87,Mistaken for Strangers,2013,75 ,7.3,72        ,"4,592",$0.14M,Tom Berninger,Tom Berninger,Documentary
+88,The Bad Lieutenant: Port of Call - New Orleans,2009,122 ,6.6,69        ,"80,609",$1.70M,Werner Herzog,Nicolas Cage,Crime
+89,A Bug's Life,1998,95 ,7.2,78        ,"312,438",$162.80M,John Lasseter,Andrew Stanton,Animation
+90,Whiplash,2014,106 ,8.5,89        ,"974,634",$13.09M,Damien Chazelle,Miles Teller,Drama
+91,Shutter Island,2010,138 ,8.2,63        ,"1,439,990",$128.01M,Martin Scorsese,Leonardo DiCaprio,Mystery
+92,Star Wars: Episode VII - The Force Awakens,2015,138 ,7.8,80        ,"969,182",$936.66M,J.J. Abrams,Daisy Ridley,Action
+93,Lat sau san taam,1992,128 ,7.7,nan,"53,708",nan,John Woo,Chow Yun-Fat,Action
+94,The Place Beyond the Pines,2012,140 ,7.3,68        ,"288,383",$21.38M,Derek Cianfrance,Ryan Gosling,Crime
+95,Happy Gilmore,1996,92 ,7,31        ,"245,462",$38.62M,Dennis Dugan,Adam Sandler,Comedy
+96,Kramer vs. Kramer,1979,105 ,7.8,77        ,"153,676",$106.26M,Robert Benton,Dustin Hoffman,Drama            
+97,Wonder Boys,2000,107 ,7.2,74        ,"66,396",$19.39M,Curtis Hanson,Michael Douglas,Comedy
+98,War of the Worlds,2005,116 ,6.5,73        ,"472,718",$234.28M,Steven Spielberg,Tom Cruise,Action
+99,Four Weddings and a Funeral,1994,117 ,7.1,81        ,"164,860",$52.70M,Mike Newell,Hugh Grant,Comedy
+0,E.T. the Extra-Terrestrial,1982,115 ,7.9,92        ,"434,702",$435.11M,Steven Spielberg,Henry Thomas,Adventure
+1,Nixon,1995,192 ,7.1,66        ,"32,580",$13.56M,Oliver Stone,Anthony Hopkins,Biography
+2,Star Wars: Episode III - Revenge of the Sith,2005,140 ,7.6,68        ,"839,396",$380.26M,George Lucas,Hayden Christensen,Action
+3,Army of Darkness,1992,81 ,7.4,59        ,"193,284",$11.50M,Sam Raimi,Bruce Campbell,Comedy
+4,Manhunter,1986,120 ,7.2,75        ,"80,234",$8.62M,Michael Mann,William Petersen,Crime
+5,Catfish,2010,87 ,7.1,65        ,"43,681",$3.23M,Henry Joost,Ariel Schulman,Documentary
+6,Tootsie,1982,116 ,7.4,88        ,"113,996",$177.20M,Sydney Pollack,Dustin Hoffman,Comedy
+7,Boyz n the Hood,1991,112 ,7.8,76        ,"153,304",$57.50M,John Singleton,Cuba Gooding Jr.,Crime
+8,Do the Right Thing,1989,120 ,8,93        ,"111,531",$27.55M,Spike Lee,Danny Aiello,Comedy
+9,Crumb,1994,119 ,8,93        ,"21,477",$3.17M,Terry Zwigoff,Robert Crumb,Documentary
+10,A Fish Called Wanda,1988,108 ,7.5,80        ,"152,994",$63.49M,Charles Crichton,John Cleese,Comedy
+11,To Live and Die in L.A.,1985,116 ,7.3,81        ,"38,883",$17.31M,William Friedkin,William Petersen,Action
+12,Superman II,1980,127 ,6.8,83        ,"114,040",$108.19M,Richard Lester,Gene Hackman,Action
+13,Confessions of a Dangerous Mind,2002,113 ,7,67        ,"91,675",$16.00M,George Clooney,Sam Rockwell,Biography
+14,Paper Moon,1973,102 ,8.1,77        ,"52,062",$30.93M,Peter Bogdanovich,Ryan O'Neal,Comedy
+15,Wo hu cang long,2000,120 ,7.9,94        ,"280,641",$128.08M,Ang Lee,Chow Yun-Fat,Action
+16,Angel Heart,1987,113 ,7.2,61        ,"95,210",$17.19M,Alan Parker,Mickey Rourke,Horror
+17,Days of Wine and Roses,1962,117 ,7.8,74        ,"13,929",nan,Blake Edwards,Jack Lemmon,Drama            
+18,You're Next,2011,95 ,6.6,66        ,"108,688",$18.47M,Adam Wingard,Sharni Vinson,Drama
+19,Bugsy Malone,1976,93 ,6.8,71        ,"19,255",$2.78M,Alan Parker,Jodie Foster,Comedy
+20,GATTACA,1997,106 ,7.7,64        ,"321,306",$12.34M,Andrew Niccol,Ethan Hawke,Drama
+21,Strange Days,1995,145 ,7.2,66        ,"77,895",$7.92M,Kathryn Bigelow,Ralph Fiennes,Crime
+22,The Other Guys,2010,107 ,6.6,64        ,"286,484",$119.22M,Adam McKay,Will Ferrell,Action
+23,L'ennemi public n°1,2008,133 ,7.4,72        ,"31,125",$0.28M,Jean-François Richet,Vincent Cassel,Action
+24,Biloxi Blues,1988,106 ,6.6,61        ,"16,450",$43.18M,Mike Nichols,Matthew Broderick,Comedy
+25,A Simple Plan,1998,121 ,7.5,81        ,"75,663",$16.31M,Sam Raimi,Bill Paxton,Crime
+26,Sleepers,1996,147 ,7.5,49        ,"236,470",$49.10M,Barry Levinson,Robert De Niro,Crime
+27,Letters from Iwo Jima,2006,141 ,7.8,89        ,"169,413",$13.76M,Clint Eastwood,Ken Watanabe,Action
+28,Psycho,1960,109 ,8.5,97        ,"713,443",$32.00M,Alfred Hitchcock,Anthony Perkins,Horror
+29,The Muppet Christmas Carol,1992,85 ,7.8,64        ,"70,383",$27.28M,Brian Henson,Michael Caine,Comedy
+30,How to Train Your Dragon,2010,98 ,8.1,75        ,"793,689",$217.58M,Dean DeBlois,Chris Sanders,Animation
+31,The World Is Not Enough,1999,128 ,6.4,57        ,"209,235",$126.94M,Michael Apted,Pierce Brosnan,Action
+32,Up in the Air, 2009,109 ,7.4,83        ,"348,353",$83.82M,Jason Reitman,George Clooney,Comedy
+33,Avatar,2009,162 ,7.9,83        ,"1,377,751",$760.51M,James Cameron,Sam Worthington,Action
+34,Bug,2006,102 ,6.1,62        ,"37,661",$7.01M,William Friedkin,Ashley Judd,Drama
+35,V for Vendetta,2005,132 ,8.2,62        ,"1,173,195",$70.51M,James McTeigue,Hugo Weaving,Action
+36,His Girl Friday,1940,92 ,7.8,nan,"62,755",$0.30M,Howard Hawks,Cary Grant,Comedy
+37,King of New York,1990,103 ,6.9,66        ,"41,654",$2.55M,Abel Ferrara,Christopher Walken,Crime
+38,Adaptation.,2002,115 ,7.7,83        ,"201,998",$22.25M,Spike Jonze,Nicolas Cage,Comedy
+39,The Butcher Boy,1997,110 ,7.1,nan,"11,416",$1.82M,Neil Jordan,Stephen Rea,Comedy
+40,Dead Man's Shoes,2004,90 ,7.5,52        ,"58,000",$0.01M,Shane Meadows,Paddy Considine,Crime
+41,Punch-Drunk Love,2002,95 ,7.3,78        ,"175,795",$17.84M,Paul Thomas Anderson,Adam Sandler,Comedy
+42,Master and Commander: The Far Side of the World,2003,138 ,7.5,81        ,"236,388",$93.93M,Peter Weir,Russell Crowe,Action
+43,Born on the Fourth of July,1989,145 ,7.2,75        ,"115,184",$70.00M,Oliver Stone,Tom Cruise,Biography
+44,Twin Peaks: Fire Walk with Me,1992,134 ,7.3,45        ,"104,327",$4.16M,David Lynch,Sheryl Lee,Drama
+45,Irréversible,2002,97 ,7.3,51        ,"146,527",$0.75M,Gaspar Noé,Monica Bellucci,Crime
+46,Ed Wood,1994,127 ,7.8,70        ,"183,308",$5.89M,Tim Burton,Johnny Depp,Biography
+47,Nochnoy dozor,2004,114 ,6.4,58        ,"55,248",$1.49M,Timur Bekmambetov,Konstantin Khabenskiy,Action
+48,Bad Lieutenant,1992,96 ,7,70        ,"47,437",$2.00M,Abel Ferrara,Harvey Keitel,Crime
+49,The Lincoln Lawyer,2011,118 ,7.3,63        ,"252,523",$58.01M,Brad Furman,Matthew McConaughey,Crime
+50,Wanted,2008,110 ,6.7,64        ,"406,748",$134.51M,Timur Bekmambetov,Angelina Jolie,Action
+51,Brokeback Mountain,2005,134 ,7.7,87        ,"379,499",$83.04M,Ang Lee,Jake Gyllenhaal,Drama
+52,Near Dark,1987,94 ,6.9,78        ,"44,315",$3.37M,Kathryn Bigelow,Adrian Pasdar,Horror            
+53,The Wild Bunch,1969,145 ,7.9,98        ,"89,900",$12.06M,Sam Peckinpah,William Holden,Action
+54,A Few Good Men,1992,138 ,7.7,62        ,"285,238",$141.34M,Rob Reiner,Tom Cruise,Drama
+55,Enron: The Smartest Guys in the Room,2005,110 ,7.6,nan,"20,015",nan,Alex Gibney,John Beard,Documentary
+56,Predator,1987,107 ,7.8,47        ,"451,145",$59.74M,John McTiernan,Arnold Schwarzenegger,Action
+57,La haine,1995,98 ,8.1,nan,"194,050",$0.31M,Mathieu Kassovitz,Vincent Cassel,Crime
+58,The Matrix Reloaded,2003,138 ,7.2,62        ,"626,799",$281.49M,Lana Wachowski,Lilly Wachowski,Action
+59,The Revenant, 2015,156 ,8,76        ,"866,823",$183.64M,Alejandro G. Iñárritu,Leonardo DiCaprio,Action
+60,Deadpool,2016,108 ,8,65        ,"1,114,774",$363.07M,Tim Miller,Ryan Reynolds,Action
+61,La vita è bella,1997,116 ,8.6,58        ,"737,922",$57.60M,Roberto Benigni,Roberto Benigni,Comedy
+62,Anvil: The Story of Anvil,2008,80 ,7.9,82        ,"16,790",$0.67M,Sacha Gervasi,Robb Reiner,Documentary
+63,Eden Lake,2008,91 ,6.7,65        ,"93,931",$0.01M,James Watkins,Kelly Reilly,Horror
+64,The Last Seduction,1994,110 ,7,85        ,"25,593",$6.14M,John Dahl,Linda Fiorentino,Crime
+65,In America,2002,105 ,7.7,76        ,"44,158",$15.54M,Jim Sheridan,Paddy Considine,Drama            
+66,Pinocchio,1940,88 ,7.5,99        ,"158,659",$84.25M,Norman Ferguson,T. Hee,Animation
+67,Splice,2009,104 ,5.8,66        ,"101,394",$17.00M,Vincenzo Natali,Adrien Brody,Horror
+68, Screen Two,1985–1998,67 ,7.2,nan,"3,584",nan,Alan Clarke,Gary Oldman,Drama            
+69,Blood Simple,1984,99 ,7.5,84        ,"104,264",$2.15M,Joel Coen,Ethan Coen,Crime
+70,The Guest, 2014,100 ,6.7,76        ,"105,553",$0.32M,Adam Wingard,Dan Stevens,Action
+71,Next Goal Wins,2014,97 ,7.8,71        ,"3,048",$0.04M,Mike Brett,Steve Jamison,Documentary
+72,Taxi, 1998,89 ,7,nan,"88,793",$0.27M,Gérard Pirès,Samy Naceri,Action
+73,Secretary,2002,107 ,6.9,63        ,"97,900",$4.06M,Steven Shainberg,James Spader,Comedy
+74,Garden State,2004,102 ,7.4,67        ,"222,706",$26.78M,Zach Braff,Zach Braff,Comedy
+75,Frost/Nixon,2008,122 ,7.7,80        ,"112,110",$18.59M,Ron Howard,Frank Langella,Biography
+76,Ne le dis à personne,2006,131 ,7.5,82        ,"57,750",$6.18M,Guillaume Canet,François Cluzet,Crime
+77,22 Jump Street,2014,112 ,7,71        ,"403,292",$191.72M,Phil Lord,Christopher Miller,Action
+78,21 Grams,2003,124 ,7.6,70        ,"245,069",$16.29M,Alejandro G. Iñárritu,Sean Penn,Crime
+79,Bugsy,1991,136 ,6.8,80        ,"30,801",$49.11M,Barry Levinson,Warren Beatty,Biography
+80,Local Hero,1983,111 ,7.3,84        ,"26,475",$5.90M,Bill Forsyth,Burt Lancaster,Comedy
+81,Annie Hall,1977,93 ,8,92        ,"276,874",$39.20M,Woody Allen,Woody Allen,Comedy
+82,Heathers,1988,103 ,7.2,72        ,"114,730",$1.11M,Michael Lehmann,Winona Ryder,Comedy
+83,Adventureland,2009,107 ,6.8,76        ,"167,984",$16.03M,Greg Mottola,Jesse Eisenberg,Comedy
+84,The Conversation,1974,113 ,7.7,87        ,"120,618",$4.42M,Francis Ford Coppola,Gene Hackman,Drama
+85,Watchmen,2009,162 ,7.6,56        ,"579,161",$107.51M,Zack Snyder,Jackie Earle Haley,Action
+86,The Ghost Writer,2010,128 ,7.2,77        ,"170,280",$15.54M,Roman Polanski,Ewan McGregor,Crime
+87,[Rec],2007,78 ,7.4,71        ,"195,139",nan,Jaume Balagueró,Paco Plaza,Horror
+88,Dnevnoy dozor,2006,132 ,6.4,59        ,"35,298",$0.45M,Timur Bekmambetov,Konstantin Khabenskiy,Action
+89,Fish Tank,2009,123 ,7.3,81        ,"64,834",$0.37M,Andrea Arnold,Katie Jarvis,Drama            
+90,Sling Blade,1996,135 ,8,85        ,"98,393",$24.48M,Billy Bob Thornton,Billy Bob Thornton,Drama            
+91,When Harry Met Sally...,1989,95 ,7.7,76        ,"240,477",$92.82M,Rob Reiner,Billy Crystal,Comedy
+92,The Kid Stays in the Picture,2002,93 ,7.3,75        ,"7,941",$1.43M,Nanette Burstein,Brett Morgen,Documentary
+93,Ferris Bueller's Day Off,1986,103 ,7.8,61        ,"383,936",$70.14M,John Hughes,Matthew Broderick,Comedy            
+94,I Love You Phillip Morris,2009,102 ,6.6,65        ,"99,511",$2.04M,Glenn Ficarra,John Requa,Biography
+95,Rio Bravo,1959,141 ,8,93        ,"67,647",$12.54M,Howard Hawks,John Wayne,Drama
+96,Kind Hearts and Coronets,1949,106 ,8,nan,"39,531",nan,Robert Hamer,Dennis Price,Comedy
+97,Choke,2008,92 ,6.4,47        ,"33,495",$2.93M,Clark Gregg,Sam Rockwell,Comedy
+98,The Conjuring,2013,112 ,7.5,68        ,"550,452",$137.40M,James Wan,Patrick Wilson,Horror
+99,Body Heat,1981,113 ,7.4,77        ,"39,872",$24.06M,Lawrence Kasdan,William Hurt,Crime
+0,The Big Red One,1980,113 ,7.1,77        ,"21,282",nan,Samuel Fuller,Lee Marvin,Drama
+1,The Rover,2014,103 ,6.4,64        ,"50,891",$1.11M,David Michôd,Guy Pearce,Action
+2,Moulin Rouge!,2001,127 ,7.6,66        ,"297,930",$57.39M,Baz Luhrmann,Nicole Kidman,Drama
+3,Harry Brown,2009,103 ,7.2,55        ,"91,029",$1.82M,Daniel Barber,Michael Caine,Action
+4,The Contender,2000,126 ,6.9,59        ,"24,931",$17.87M,Rod Lurie,Joan Allen,Drama
+5,Siu Lam juk kau,2001,113 ,7.3,68        ,"88,447",$0.49M,Stephen Chow,Stephen Chow,Action
+6,Spoorloos,1988,107 ,7.7,nan,"43,115",nan,George Sluizer,Bernard-Pierre Donnadieu,Mystery
+7,Michael Collins,1996,133 ,7.1,59        ,"33,560",$11.09M,Neil Jordan,Liam Neeson,Biography
+8,Mad Max 2,1981,96 ,7.6,77        ,"192,175",$12.47M,George Miller,Mel Gibson,Action
+9,Love and Death,1975,85 ,7.7,89        ,"40,624",nan,Woody Allen,Woody Allen,Comedy
+10,Blue Valentine,2010,112 ,7.3,81        ,"210,210",$9.74M,Derek Cianfrance,Ryan Gosling,Drama
+11,Slap Shot,1977,123 ,7.3,61        ,"40,960",$28.00M,George Roy Hill,Paul Newman,Comedy
+12,Gremlins 2: The New Batch,1990,106 ,6.4,69        ,"112,098",$41.48M,Joe Dante,Chuck Jones,Comedy
+13,Wall Street,1987,126 ,7.3,56        ,"164,341",$43.85M,Oliver Stone,Charlie Sheen,Crime
+14,Tommy,1975,111 ,6.6,66        ,"22,463",$34.25M,Ken Russell,Roger Daltrey,Drama
+15,Gomorra,2008,137 ,7,87        ,"51,019",$1.58M,Matteo Garrone,Gianfelice Imparato,Crime
+16,The King of Comedy,1982,109 ,7.8,73        ,"117,891",$2.50M,Martin Scorsese,Robert De Niro,Comedy
+17,House of Games,1987,102 ,7.2,78        ,"23,908",$2.59M,David Mamet,Lindsay Crouse,Crime
+18,The Tree of Life,2011,139 ,6.8,85        ,"183,376",$13.30M,Terrence Malick,Brad Pitt,Drama
+19,Lethal Weapon,1987,109 ,7.6,68        ,"274,728",$65.21M,Richard Donner,Mel Gibson,Action
+20,Midsommar,2019,148 ,7.1,72        ,"394,890",$27.33M,Ari Aster,Florence Pugh,Drama
+21,Stranger Than Fiction,2006,113 ,7.5,67        ,"235,869",$40.14M,Marc Forster,Will Ferrell,Comedy
+22,Into the Abyss,2011,107 ,7.3,74        ,"17,278",$0.22M,Werner Herzog,Werner Herzog,Documentary
+23,The Mask,1994,101 ,6.9,59        ,"416,415",$119.94M,Chuck Russell,Jim Carrey,Action
+24,The Muppets,2011,120 ,7.1,75        ,"96,544",$88.63M,James Bobin,Amy Adams,Adventure
+25,Gonzo: The Life and Work of Dr. Hunter S. Thompson,2008,120 ,7.6,73        ,"8,481",$1.25M,Alex Gibney,Hunter S. Thompson,Documentary
+26,Prometheus, 2012,124 ,7,64        ,"640,398",$126.48M,Ridley Scott,Noomi Rapace,Adventure
+27,Blazing Saddles,1974,93 ,7.7,73        ,"151,180",$119.50M,Mel Brooks,Cleavon Little,Comedy
+28,Win Win,2011,106 ,7.1,75        ,"55,083",$10.18M,Tom McCarthy,Paul Giamatti,Comedy
+29,Dead Man Walking,1995,122 ,7.5,80        ,"101,177",$39.39M,Tim Robbins,Susan Sarandon,Crime
+30,Mou gaan dou,2002,101 ,8,75        ,"130,630",$0.17M,Andrew Lau,Alan Mak,Action
+31,The Way of the Gun,2000,119 ,6.6,49        ,"35,107",$6.06M,Christopher McQuarrie,Ryan Phillippe,Action
+32,Lawrence of Arabia,1962,218 ,8.3,100        ,"311,866",$44.82M,David Lean,Peter O'Toole,Adventure
+33,Brüno,2009,81 ,5.9,54        ,"153,457",$60.05M,Larry Charles,Sacha Baron Cohen,Comedy            
+34,Redbelt,2008,99 ,6.7,69        ,"21,478",$2.34M,David Mamet,Chiwetel Ejiofor,Drama
+35,Lethal Weapon 2,1989,114 ,7.3,70        ,"187,748",$147.25M,Richard Donner,Mel Gibson,Action
+36,Atonement,2007,123 ,7.8,85        ,"297,913",$50.93M,Joe Wright,Keira Knightley,Drama
+37,Lost Highway,1997,134 ,7.6,53        ,"152,190",$3.80M,David Lynch,Bill Pullman,Mystery
+38,Re-Animator,1985,84 ,7.2,73        ,"70,981",$2.02M,Stuart Gordon,Jeffrey Combs,Comedy
+39,The Wizard of Oz,1939,102 ,8.1,92        ,"425,787",$2.08M,Victor Fleming,King Vidor,Adventure
+40,Iron Man,2008,126 ,7.9,79        ,"1,117,233",$318.41M,Jon Favreau,Robert Downey Jr.,Action
+41,The Girl with the Dragon Tattoo,2011,158 ,7.8,71        ,"491,847",$102.52M,David Fincher,Daniel Craig,Crime
+42,Incendies,2010,131 ,8.3,80        ,"196,169",$6.86M,Denis Villeneuve,Lubna Azabal,Drama
+43,The Intouchables,2011,112 ,8.5,57        ,"920,679",$13.18M,Olivier Nakache,Éric Toledano,Comedy
+44,Mr. Smith Goes to Washington,1939,129 ,8.1,73        ,"120,804",$9.60M,Frank Capra,James Stewart,Comedy
+45,Celda 211,2009,113 ,7.6,nan,"70,494",nan,Daniel Monzón,Luis Tosar,Action
+46,The Guard,2011,96 ,7.3,78        ,"95,081",$5.36M,John Michael McDonagh,Brendan Gleeson,Comedy
+47,Beauty and the Beast,1991,84 ,8,95        ,"477,249",$218.97M,Gary Trousdale,Kirk Wise,Animation
+48,Pirates of the Caribbean: Dead Man's Chest,2006,151 ,7.4,53        ,"761,948",$423.32M,Gore Verbinski,Johnny Depp,Action
+49,The Big Sleep,1946,114 ,7.9,86        ,"90,142",$6.54M,Howard Hawks,Humphrey Bogart,Crime
+50,Star Wars: Episode VI - Return of the Jedi,1983,131 ,8.3,58        ,"1,113,378",$309.13M,Richard Marquand,Mark Hamill,Action
+51,Easy A,2010,92 ,7,72        ,"414,814",$58.40M,Will Gluck,Emma Stone,Comedy
+52,Babel, 2006,143 ,7.5,69        ,"316,165",$34.30M,Alejandro G. Iñárritu,Brad Pitt,Drama            
+53,The Maltese Falcon,1941,100 ,8,97        ,"165,819",$2.11M,John Huston,Humphrey Bogart,Crime
+54,In the Line of Fire,1993,128 ,7.2,74        ,"112,915",$102.31M,Wolfgang Petersen,Clint Eastwood,Action
+55,Bringing Out the Dead,1999,121 ,6.8,72        ,"75,636",$16.64M,Martin Scorsese,Nicolas Cage,Drama
+56,White Heat,1949,114 ,8.1,89        ,"35,415",nan,Raoul Walsh,James Cagney,Action
+57,Chasing Amy,1997,113 ,7.2,71        ,"143,274",$12.02M,Kevin Smith,Ben Affleck,Comedy
+58,Angela's Ashes,1999,145 ,7.3,54        ,"23,098",$13.04M,Alan Parker,Emily Watson,Biography
+59,I'm Not There,2007,135 ,6.8,73        ,"60,949",$4.02M,Todd Haynes,Christian Bale,Biography
+60,Misery,1990,107 ,7.8,75        ,"233,381",$61.28M,Rob Reiner,James Caan,Drama
+61,The Thomas Crown Affair,1999,113 ,6.8,72        ,"99,672",$69.30M,John McTiernan,Pierce Brosnan,Crime
+62,Who Framed Roger Rabbit,1988,104 ,7.7,83        ,"215,448",$156.45M,Robert Zemeckis,Bob Hoskins,Animation
+63,The Treasure of the Sierra Madre,1948,126 ,8.2,98        ,"131,686",$5.01M,John Huston,Humphrey Bogart,Adventure
+64,Lost in Translation,2003,102 ,7.7,91        ,"484,838",$44.59M,Sofia Coppola,Bill Murray,Comedy
+65,Primal Fear,1996,129 ,7.7,47        ,"244,694",$56.12M,Gregory Hoblit,Richard Gere,Crime
+66,Mulholland Dr.,2001,147 ,7.9,86        ,"381,111",$7.22M,David Lynch,Naomi Watts,Drama
+67,Walk the Line,2005,136 ,7.8,72        ,"264,395",$119.52M,James Mangold,Joaquin Phoenix,Biography
+68,The China Syndrome,1979,122 ,7.4,81        ,"32,770",$51.72M,James Bridges,Jane Fonda,Drama
+69,Narc,2002,105 ,7.1,70        ,"42,940",$10.46M,Joe Carnahan,Ray Liotta,Crime
+70,El orfanato,2007,105 ,7.4,74        ,"162,972",$7.16M,J.A. Bayona,Belén Rueda,Drama
+71,De rouille et d'os,2012,120 ,7.4,73        ,"70,062",$2.06M,Jacques Audiard,Marion Cotillard,Drama
+72,Bridesmaids, 2011,125 ,6.8,75        ,"307,516",$169.11M,Paul Feig,Kristen Wiig,Comedy            
+73,Les quatre cents coups,1959,99 ,8.1,nan,"127,255",nan,François Truffaut,Jean-Pierre Léaud,Crime
+74,Hunger,2008,96 ,7.5,82        ,"73,242",$0.15M,Steve McQueen,Stuart Graham,Biography
+75,Koroshiya 1,2001,129 ,7,55        ,"59,715",$0.02M,Takashi Miike,Tadanobu Asano,Action
+76,The Dark Knight Rises,2012,164 ,8.4,78        ,"1,812,557",$448.14M,Christopher Nolan,Christian Bale,Action
+77,X-Men,2000,104 ,7.3,64        ,"642,624",$157.30M,Bryan Singer,Patrick Stewart,Action
+78,Filth, 2013,97 ,7,56        ,"115,304",$0.03M,Jon S. Baird,James McAvoy,Action
+79,White Lightnin',2009,92 ,7,nan,"1,842",nan,Dominic Murphy,Muse Watson,Biography
+80,Looper,2012,119 ,7.4,84        ,"600,291",$66.49M,Rian Johnson,Joseph Gordon-Levitt,Action
+81,La La Land,2016,128 ,8,94        ,"660,099",$151.10M,Damien Chazelle,Ryan Gosling,Comedy
+82,Get Out, 2017,104 ,7.8,85        ,"687,318",$176.04M,Jordan Peele,Daniel Kaluuya,Horror
+83,Logan,2017,137 ,8.1,77        ,"823,284",$226.28M,James Mangold,Hugh Jackman,Action
+84,American Gangster,2007,157 ,7.8,76        ,"450,018",$130.16M,Ridley Scott,Denzel Washington,Biography
+85,Interstellar,2014,169 ,8.7,74        ,"2,066,186",$188.02M,Christopher Nolan,Matthew McConaughey,Adventure
+86,Der amerikanische Freund,1977,128 ,7.4,79        ,"18,237",nan,Wim Wenders,Dennis Hopper,Crime
+87,Alan Partridge: Alpha Papa,2013,90 ,6.9,66        ,"32,908",$0.15M,Declan Lowney,Steve Coogan,Action
+88,X: First Class,2011,131 ,7.7,65        ,"720,041",$146.41M,Matthew Vaughn,James McAvoy,Action
+89,Crash,1996,100 ,6.4,53        ,"65,843",$2.04M,David Cronenberg,James Spader,Drama            
+90,Mona Lisa,1986,104 ,7.3,85        ,"18,554",$5.79M,Neil Jordan,Bob Hoskins,Crime
+91,Pitch Black,2000,109 ,7,49        ,"251,984",$39.24M,David Twohy,Radha Mitchell,Action
+92,"Synecdoche, New York",2008,124 ,7.5,67        ,"97,685",$3.08M,Charlie Kaufman,Philip Seymour Hoffman,Drama            
+93,Us, 2019,116 ,6.8,81        ,"337,516",$175.08M,Jordan Peele,Lupita Nyong'o,Horror
+94,The Town,2010,125 ,7.5,74        ,"413,185",$92.19M,Ben Affleck,Ben Affleck,Crime
+95,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006,97 ,7.3,67        ,"1,531",$0.14M,Paul Crowder,John Dower,Documentary
+96,Mission: Impossible III,2006,126 ,6.9,66        ,"388,438",$134.03M,J.J. Abrams,Tom Cruise,Action
+97,On Her Majesty's Secret Service,1969,142 ,6.7,61        ,"98,779",$22.80M,Peter R. Hunt,George Lazenby,Action
+98,Ace Ventura: Pet Detective,1994,86 ,6.9,37        ,"322,828",$72.22M,Tom Shadyac,Jim Carrey,Comedy            
+99,Sherlock Holmes,2009,128 ,7.6,57        ,"666,740",$209.03M,Guy Ritchie,Robert Downey Jr.,Action
+0,Piranha 3D,2010,88 ,5.5,53        ,"96,124",$25.00M,Alexandre Aja,Elisabeth Shue,Comedy
+1,Kingsman: The Secret Service,2014,129 ,7.7,60        ,"711,197",$128.26M,Matthew Vaughn,Colin Firth,Action
+2,Song of the Sea,2014,93 ,8,85        ,"62,710",$0.86M,Tomm Moore,David Rawle,Animation
+3,Creed, 2015,133 ,7.6,82        ,"308,872",$109.77M,Ryan Coogler,Michael B. Jordan,Action
+4,Star Wars: Episode VIII - The Last Jedi,2017,152 ,6.9,84        ,"667,713",$620.18M,Rian Johnson,Daisy Ridley,Action
+5,Hacksaw Ridge,2016,139 ,8.1,71        ,"586,978",$67.21M,Mel Gibson,Andrew Garfield,Biography
+6,Dunkirk,2017,106 ,7.8,94        ,"731,909",$188.37M,Christopher Nolan,Fionn Whitehead,Action
+7,Kinsey,2004,118 ,7.1,79        ,"50,826",$10.21M,Bill Condon,Liam Neeson,Biography
+8,Gimme Shelter,1970,91 ,7.8,85        ,"12,796",$0.25M,Albert Maysles,David Maysles,Documentary
+9,Frenzy,1972,116 ,7.4,92        ,"49,074",$12.60M,Alfred Hitchcock,Jon Finch,Thriller            
+10,Amadeus,1984,160 ,8.4,87        ,"424,848",$51.97M,Milos Forman,F. Murray Abraham,Biography
+11,Jodaeiye Nader az Simin,2011,123 ,8.3,95        ,"257,097",$7.10M,Asghar Farhadi,Payman Maadi,Drama            
+12,Dallas Buyers Club,2013,117 ,7.9,77        ,"515,969",$27.30M,Jean-Marc Vallée,Matthew McConaughey,Biography
+13,Die Hard with a Vengeance,1995,128 ,7.6,58        ,"406,345",$100.01M,John McTiernan,Bruce Willis,Action
+14,Freeway,1996,102 ,6.8,61        ,"31,364",$0.30M,Matthew Bright,Reese Witherspoon,Crime
+15,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,107 ,8.1,87        ,"24,952",$4.20M,Errol Morris,Robert McNamara,Documentary
+16,Carlos,2010,334 ,7.6,94        ,"14,351",$0.15M,Edgar Ramírez,Alexander Scheer,Biography
+17,Per qualche dollaro in più,1965,132 ,8.2,74        ,"272,598",$15.00M,Sergio Leone,Clint Eastwood,Drama
+18,Ratatouille,2007,111 ,8.1,96        ,"814,701",$206.45M,Brad Bird,Jan Pinkava,Animation
+19,The Funeral,1996,99 ,6.6,nan,"9,354",$1.23M,Abel Ferrara,Christopher Walken,Crime
+20,The Devil's Advocate,1997,144 ,7.5,60        ,"399,122",$60.98M,Taylor Hackford,Keanu Reeves,Drama
+21,The Player,1992,124 ,7.5,86        ,"65,350",$21.71M,Robert Altman,Tim Robbins,Comedy
+22,Thank You for Smoking,2005,92 ,7.5,71        ,"228,197",$24.79M,Jason Reitman,Aaron Eckhart,Comedy
+23,Seven Psychopaths,2012,110 ,7.1,66        ,"272,723",$15.02M,Martin McDonagh,Colin Farrell,Comedy
+24,Skyfall,2012,143 ,7.8,81        ,"727,579",$304.36M,Sam Mendes,Daniel Craig,Action
+25,Hereditary,2018,127 ,7.3,87        ,"372,370",$44.07M,Ari Aster,Toni Collette,Drama
+26,Starred Up,2013,106 ,7.3,81        ,"48,442",$0.03M,David Mackenzie,Jack O'Connell,Crime
+27,Paddington,2014,95 ,7.3,77        ,"132,276",$76.27M,Paul King,Hugh Bonneville,Adventure
+28,Joe, 2013,117 ,6.8,74        ,"51,009",$0.37M,David Gordon Green,Nicolas Cage,Crime
+29,Bloody Sunday,2002,111 ,7.6,90        ,"25,664",$0.77M,Paul Greengrass,James Nesbitt,Drama
+30,Sen to Chihiro no kamikakushi,2001,125 ,8.6,96        ,"839,230",$10.06M,Hayao Miyazaki,Daveigh Chase,Animation
+31,Neds,2010,124 ,6.9,nan,"8,755",nan,Peter Mullan,Conor McCarron,Drama            
+32,Michael, 2011,96 ,6.9,64        ,"5,091",$0.02M,Markus Schleinzer,Kathrin Resetarits,Drama
+33,The Shape of Water,2017,123 ,7.3,87        ,"444,928",$63.86M,Guillermo del Toro,Sally Hawkins,Drama
+34,"Three Billboards Outside Ebbing, Missouri",2017,115 ,8.1,88        ,"550,317",$54.51M,Martin McDonagh,Frances McDormand,Comedy
+35,Three Identical Strangers,2018,96 ,7.6,81        ,"38,788",$12.32M,Tim Wardle,Robert Shafran,Documentary
+36,State of Play,2009,127 ,7.1,64        ,"159,698",$37.02M,Kevin Macdonald,Russell Crowe,Crime
+37,The Wackness,2008,99 ,6.9,61        ,"31,214",$2.08M,Jonathan Levine,Josh Peck,Comedy
+38,Dirty Rotten Scoundrels,1988,110 ,7.4,68        ,"77,462",$42.04M,Frank Oz,Steve Martin,Comedy
+39,Los ojos de Julia,2010,118 ,6.7,nan,"37,245",nan,Guillem Morales,Belén Rueda,Horror
+40,Ghostbusters II,1989,108 ,6.6,56        ,"221,184",$112.49M,Ivan Reitman,Bill Murray,Action
+41,Jackass 3D,2010,94 ,7,56        ,"68,553",$117.22M,Jeff Tremaine,Johnny Knoxville,Documentary
+42,Stake Land,2010,98 ,6.4,66        ,"43,994",$0.02M,Jim Mickle,Connor Paolo,Drama
+43,No, 2012,118 ,7.4,81        ,"26,136",$2.34M,Pablo Larraín,Gael García Bernal,Drama
+44,Empire of the Sun,1987,153 ,7.7,62        ,"133,596",$22.24M,Steven Spielberg,Christian Bale,Drama
+45,Tombstone,1993,130 ,7.8,50        ,"164,525",$56.51M,George P. Cosmatos,Kevin Jarre,Biography
+46,The Addiction,1995,82 ,6.4,nan,"11,426",$0.30M,Abel Ferrara,Lili Taylor,Drama
+47,Indiana Jones and the Temple of Doom,1984,118 ,7.5,57        ,"532,419",$179.87M,Steven Spielberg,Harrison Ford,Action
+48,"Paris, je t'aime",2006,120 ,7.2,66        ,"74,397",$4.86M,Olivier Assayas,Frédéric Auburtin,Comedy
+49,Get Him to the Greek,2010,109 ,6.3,65        ,"185,083",$60.97M,Nicholas Stoller,Jonah Hill,Comedy
+50,Scream,1996,111 ,7.4,66        ,"385,428",$103.05M,Wes Craven,Neve Campbell,Horror
+51,Iron Man Three,2013,130 ,7.1,62        ,"894,136",$409.01M,Shane Black,Robert Downey Jr.,Action
+52,The Village,2004,108 ,6.6,44        ,"276,224",$114.20M,M. Night Shyamalan,Sigourney Weaver,Drama
+53,21 Jump Street,2012,109 ,7.2,69        ,"594,549",$138.45M,Phil Lord,Christopher Miller,Action
+54,Pacific Rim,2013,131 ,6.9,65        ,"527,659",$101.80M,Guillermo del Toro,Idris Elba,Action
+55,Shoot 'Em Up,2007,86 ,6.6,49        ,"154,637",$12.81M,Michael Davis,Clive Owen,Action
+56,Angels with Dirty Faces,1938,97 ,7.9,nan,"23,078",nan,Michael Curtiz,James Cagney,Crime
+57,Rachel Getting Married,2008,113 ,6.7,85        ,"51,009",$12.80M,Jonathan Demme,Anne Hathaway,Drama
+58,Planet Terror,2007,105 ,7,nan,"222,164",nan,Robert Rodriguez,Rose McGowan,Action
+59,Private Parts,1997,109 ,6.9,67        ,"39,051",$41.20M,Betty Thomas,Howard Stern,Biography
+60,Spring Breakers,2012,94 ,5.3,63        ,"148,087",$14.12M,Harmony Korine,Vanessa Hudgens,Crime
+61,Wag the Dog,1997,97 ,7.1,74        ,"88,120",$43.02M,Barry Levinson,Dustin Hoffman,Comedy
+62,Margin Call,2011,107 ,7.1,76        ,"143,138",$5.35M,J.C. Chandor,Zachary Quinto,Drama
+63,Cinderella Man,2005,144 ,8,69        ,"197,422",$61.65M,Ron Howard,Russell Crowe,Biography
+64,"Paris, Texas",1984,145 ,8.1,81        ,"117,031",$2.18M,Wim Wenders,Harry Dean Stanton,Drama            
+65,Prisoners,2013,153 ,8.1,70        ,"798,909",$61.00M,Denis Villeneuve,Hugh Jackman,Crime
+66,Bone Tomahawk,2015,132 ,7.1,72        ,"116,658",nan,S. Craig Zahler,Kurt Russell,Drama
+67,Westworld,1973,88 ,6.9,77        ,"62,626",$16.06M,Michael Crichton,Yul Brynner,Action
+68,The Hateful Eight,2015,168 ,7.8,68        ,"653,901",$54.12M,Quentin Tarantino,Samuel L. Jackson,Crime
+69,Room, 2015,118 ,8.1,86        ,"447,229",$14.68M,Lenny Abrahamson,Brie Larson,Drama
+70,The Nice Guys,2016,116 ,7.4,70        ,"368,513",$36.26M,Shane Black,Russell Crowe,Action
+71,Hell or High Water, 2016,102 ,7.6,88        ,"250,484",$27.01M,David Mackenzie,Chris Pine,Crime
+72,Nocturnal Animals,2016,116 ,7.5,67        ,"302,262",$10.66M,Tom Ford,Amy Adams,Drama
+73,Spotlight, 2015,129 ,8.1,93        ,"498,930",$45.06M,Tom McCarthy,Mark Ruffalo,Biography
+74,Tenet,2020,150 ,7.3,69        ,"582,847",$58.46M,Christopher Nolan,John David Washington,Action
+75,The Loved Ones,2009,84 ,6.6,73        ,"43,810",nan,Sean Byrne,Xavier Samuel,Crime
+76,"Good Morning, Vietnam",1987,121 ,7.3,67        ,"152,614",$123.92M,Barry Levinson,Robin Williams,Biography
+77,Badlands,1973,94 ,7.7,93        ,"77,924",nan,Terrence Malick,Martin Sheen,Action
+78,The Class of '92,2013,99 ,7.9,nan,"8,785",nan,Ben Turner,Gabe Turner,Documentary
+79,Withnail & I,1987,107 ,7.5,84        ,"47,566",$1.54M,Bruce Robinson,Richard E. Grant,Comedy
+80,Bowfinger,1999,97 ,6.5,73        ,"73,631",$66.38M,Frank Oz,Steve Martin,Comedy            
+81,Diamonds Are Forever,1971,120 ,6.5,59        ,"113,528",$43.82M,Guy Hamilton,Sean Connery,Action
+82,Live and Let Die,1973,121 ,6.7,55        ,"114,830",$35.38M,Guy Hamilton,Roger Moore,Action
+83,127 Hours,2010,94 ,7.5,82        ,"398,808",$18.34M,Danny Boyle,James Franco,Biography
+84,Jacob's Ladder, 1990,113 ,7.4,62        ,"117,182",$26.12M,Adrian Lyne,Tim Robbins,Drama
+85,Black Hawk Down,2001,144 ,7.7,74        ,"421,002",$108.64M,Ridley Scott,Josh Hartnett,Action
+86,Machete,2010,105 ,6.6,60        ,"203,510",$26.59M,Ethan Maniquis,Robert Rodriguez,Action
+87,The Adventures of Tintin,2011,107 ,7.3,68        ,"242,161",$77.59M,Steven Spielberg,Jamie Bell,Animation
+88,Mission: Impossible II,2000,123 ,6.1,59        ,"375,443",$215.41M,John Woo,Tom Cruise,Action
+89,A Matter of Life and Death,1946,104 ,8,nan,"24,524",nan,Michael Powell,Emeric Pressburger,Drama
+90,Kubo and the Two Strings,2016,101 ,7.7,84        ,"137,773",$48.02M,Travis Knight,Charlize Theron,Animation
+91,Arbitrage,2012,107 ,6.6,73        ,"54,608",$7.92M,Nicholas Jarecki,Richard Gere,Drama
+92,Ringu,1998,96 ,7.2,nan,"76,850",nan,Hideo Nakata,Nanako Matsushima,Horror
+93,Suspiria,1977,99 ,7.3,79        ,"104,371",nan,Dario Argento,Jessica Harper,Horror            
+94,Carrie,1976,98 ,7.4,86        ,"205,199",$33.80M,Brian De Palma,Sissy Spacek,Horror
+95,Dark City,1998,100 ,7.6,66        ,"211,009",$14.38M,Alex Proyas,Rufus Sewell,Fantasy
+96,Breakfast at Tiffany's,1961,115 ,7.6,77        ,"191,084",nan,Blake Edwards,Audrey Hepburn,Comedy
+97,Thirteen Days,2000,145 ,7.3,67        ,"62,354",$34.59M,Roger Donaldson,Kevin Costner,Drama
+98,Source Code,2011,93 ,7.5,74        ,"546,736",$54.71M,Duncan Jones,Jake Gyllenhaal,Action
+99,The Jungle Book,2016,106 ,7.4,77        ,"290,729",$364.00M,Jon Favreau,Neel Sethi,Animation
+0,Supersonic,2016,122 ,7.8,71        ,"12,334",$0.24M,Mat Whitecross,Paul Arthurs,Documentary
+1,The Killing,1956,84 ,7.9,91        ,"96,776",nan,Stanley Kubrick,Sterling Hayden,Crime
+2,True Lies,1994,141 ,7.3,63        ,"278,821",$146.28M,James Cameron,Arnold Schwarzenegger,Action
+3,Swimming with Sharks,1994,93 ,7,66        ,"24,950",$0.38M,George Huang,Kevin Spacey,Comedy
+4,Nurse Betty,2000,110 ,6.3,69        ,"36,113",$25.17M,Neil LaBute,Renée Zellweger,Comedy
+5,Henry: Portrait of a Serial Killer,1986,83 ,7,80        ,"40,152",$0.61M,John McNaughton,Michael Rooker,Biography
+6,Buffalo '66,1998,110 ,7.4,69        ,"59,562",$2.38M,Vincent Gallo,Vincent Gallo,Comedy
+7,Der Untergang,2004,156 ,8.2,82        ,"373,024",$5.51M,Oliver Hirschbiegel,Bruno Ganz,Biography
+8,Star Wars: Episode I - The Phantom Menace,1999,136 ,6.5,51        ,"850,627",$474.54M,George Lucas,Ewan McGregor,Action
+9,Risky Business,1983,99 ,6.8,75        ,"99,017",$63.50M,Paul Brickman,Tom Cruise,Comedy
+10,The Last King of Scotland,2006,123 ,7.6,74        ,"195,219",$17.61M,Kevin Macdonald,James McAvoy,Biography
+11,Short Cuts,1993,188 ,7.6,81        ,"47,184",$6.11M,Robert Altman,Andie MacDowell,Comedy
+12,Witness,1985,112 ,7.4,76        ,"103,837",$68.71M,Peter Weir,Harrison Ford,Drama
+13,The Limey,1999,89 ,6.9,73        ,"34,613",$3.19M,Steven Soderbergh,Terence Stamp,Crime
+14,Cast Away,2000,143 ,7.8,73        ,"634,038",$233.63M,Robert Zemeckis,Tom Hanks,Adventure
+15,Gangster No. 1,2000,103 ,6.7,60        ,"14,501",$0.03M,Paul McGuigan,Malcolm McDowell,Crime
+16,The Godfather Part III,1990,162 ,7.6,60        ,"421,565",$66.67M,Francis Ford Coppola,Al Pacino,Crime
+17,The Crow,1994,102 ,7.5,71        ,"198,070",$50.69M,Alex Proyas,Brandon Lee,Action
+18,Eastern Promises,2007,100 ,7.6,83        ,"259,411",$17.11M,David Cronenberg,Naomi Watts,Crime
+19,The Hobbit: The Desolation of Smaug,2013,161 ,7.8,66        ,"700,378",$258.37M,Peter Jackson,Ian McKellen,Adventure
+20,Manhattan,1979,96 ,7.8,83        ,"146,496",$45.70M,Woody Allen,Woody Allen,Comedy
+21,Kingpin,1996,114 ,6.9,43        ,"90,510",$24.94M,Bobby Farrelly,Peter Farrelly,Comedy
+22,Quantum of Solace,2008,106 ,6.6,58        ,"468,751",$168.37M,Marc Forster,Daniel Craig,Action
+23,El mariachi,1992,81 ,6.8,73        ,"70,962",$2.04M,Robert Rodriguez,Carlos Gallardo,Action
+24,Big Trouble in Little China,1986,99 ,7.2,53        ,"152,644",$11.10M,John Carpenter,Kurt Russell,Action
+25,The Sting,1973,129 ,8.3,83        ,"277,967",$159.60M,George Roy Hill,Paul Newman,Comedy
+26,Apollo 13, 1995,140 ,7.7,78        ,"313,397",$173.84M,Ron Howard,Tom Hanks,Adventure
+27,Noah,2014,138 ,5.8,68        ,"265,289",$101.20M,Darren Aronofsky,Russell Crowe,Action
+28,Once, 2007,86 ,7.8,90        ,"120,916",$9.44M,John Carney,Glen Hansard,Drama
+29,Captain Fantastic,2016,118 ,7.8,72        ,"233,393",$5.88M,Matt Ross,Viggo Mortensen,Comedy
+30,Lord of War,2005,122 ,7.6,62        ,"335,004",$24.15M,Andrew Niccol,Nicolas Cage,Crime
+31,The Last of the Mohicans,1992,112 ,7.7,76        ,"186,009",$75.51M,Michael Mann,Daniel Day-Lewis,Action
+32,Lone Survivor,2013,121 ,7.5,60        ,"305,065",$125.10M,Peter Berg,Mark Wahlberg,Action
+33,Jumanji,1995,104 ,7.1,39        ,"373,859",$100.48M,Joe Johnston,Robin Williams,Adventure
+34,Apocalypto,2006,139 ,7.8,68        ,"329,145",$50.87M,Mel Gibson,Gerardo Taracena,Action
+35,Youth in Revolt,2009,90 ,6.4,63        ,"75,899",$15.28M,Miguel Arteta,Michael Cera,Comedy
+36,Lords of Dogtown,2005,107 ,7.1,56        ,"57,888",$11.01M,Catherine Hardwicke,Heath Ledger,Biography
+37,Team America: World Police,2004,98 ,7.2,64        ,"177,840",$32.79M,Trey Parker,Trey Parker,Action
+38,After Hours, 1985,97 ,7.6,90        ,"79,906",$10.60M,Martin Scorsese,Griffin Dunne,Comedy
+39,Man on the Moon,1999,118 ,7.4,58        ,"136,897",$34.58M,Milos Forman,Jim Carrey,Biography
+40,Trolljegeren,2010,103 ,6.9,61        ,"79,063",$0.25M,André Øvredal,Otto Jespersen,Drama
+41,Snitch,1998,93 ,6.6,71        ,"1,874",$0.33M,Ted Demme,Denis Leary,Crime
+42,Heavenly Creatures,1994,99 ,7.3,86        ,"67,101",$3.05M,Peter Jackson,Melanie Lynskey,Biography
+43,Monsoon Wedding,2001,114 ,7.3,77        ,"26,606",$13.88M,Mira Nair,Naseeruddin Shah,Comedy
+44,The Sweet Hereafter,1997,112 ,7.5,91        ,"36,609",$3.25M,Atom Egoyan,Ian Holm,Drama            
+45,Cube,1997,90 ,7.1,61        ,"246,371",$0.50M,Vincenzo Natali,Nicole de Boer,Horror
+46,Breaking the Waves,1996,159 ,7.8,82        ,"71,195",$4.04M,Lars von Trier,Emily Watson,Drama            
+47,The Man with Two Brains,1983,93 ,6.4,61        ,"27,724",$10.10M,Carl Reiner,Steve Martin,Comedy
+48,Birdman or (The Unexpected Virtue of Ignorance),2014,119 ,7.7,87        ,"662,969",$42.34M,Alejandro G. Iñárritu,Michael Keaton,Comedy
+49,Beverly Hills Cop,1984,105 ,7.4,66        ,"200,356",$234.76M,Martin Brest,Eddie Murphy,Action
+50,The Ring,2002,115 ,7.1,57        ,"372,590",$129.13M,Gore Verbinski,Naomi Watts,Horror
+51,Kids,1995,91 ,7,63        ,"84,111",$7.42M,Larry Clark,Leo Fitzpatrick,Drama            
+52,Hearts of Darkness: A Filmmaker's Apocalypse,1991,96 ,8.1,nan,"23,031",$1.32M,Fax Bahr,George Hickenlooper,Documentary            
+53,Roger Dodger,2002,106 ,6.8,75        ,"17,885",$1.27M,Dylan Kidd,Campbell Scott,Comedy
+54,Hard Candy,2005,104 ,7,58        ,"167,518",$1.01M,David Slade,Patrick Wilson,Drama
+55,Sicko,2007,123 ,8,74        ,"76,722",$24.54M,Michael Moore,Michael Moore,Documentary
+56,Lenny,1974,111 ,7.5,61        ,"17,443",$8.43M,Bob Fosse,Dustin Hoffman,Biography
+57,Persepolis,2007,96 ,8,90        ,"99,596",$4.45M,Vincent Paronnaud,Marjane Satrapi,Animation
+58,The Others,2001,101 ,7.6,74        ,"390,818",$96.52M,Alejandro Amenábar,Nicole Kidman,Horror
+59,Bill & Ted's Excellent Adventure,1989,90 ,6.9,50        ,"140,888",$40.49M,Stephen Herek,Keanu Reeves,Adventure
+60,Zoolander,2001,90 ,6.5,61        ,"290,023",$45.17M,Ben Stiller,Ben Stiller,Comedy            
+61,Rescue Dawn,2006,125 ,7.3,77        ,"110,446",$5.49M,Werner Herzog,Christian Bale,Adventure
+62,Rear Window,1954,112 ,8.5,100        ,"518,836",$36.76M,Alfred Hitchcock,James Stewart,Mystery
+63,Being There,1979,130 ,7.9,83        ,"77,183",$30.18M,Hal Ashby,Peter Sellers,Comedy
+64,Fear and Loathing in Las Vegas,1998,118 ,7.5,41        ,"299,934",$10.68M,Terry Gilliam,Johnny Depp,Adventure
+65,John Wick,2014,101 ,7.4,68        ,"733,386",$43.04M,Chad Stahelski,David Leitch,Action
+66,Rope,1948,80 ,7.9,73        ,"152,683",nan,Alfred Hitchcock,James Stewart,Crime
+67,Enter the Dragon,1973,102 ,7.6,83        ,"112,365",$25.00M,Robert Clouse,Bruce Lee,Action
+68,Wayne's World,1992,94 ,7,57        ,"169,521",$121.70M,Penelope Spheeris,Mike Myers,Comedy
+69,This Is Spinal Tap,1984,82 ,7.9,92        ,"146,481",$4.74M,Rob Reiner,Rob Reiner,Comedy
+70,Old School,2003,88 ,7,54        ,"242,336",$75.59M,Todd Phillips,Luke Wilson,Comedy            
+71,Top Five,2014,102 ,6.4,81        ,"27,490",$25.28M,Chris Rock,Chris Rock,Comedy
+72,All About Eve,1950,138 ,8.2,98        ,"137,994",$0.01M,Joseph L. Mankiewicz,Bette Davis,Drama            
+73,Scum,1979,98 ,7.6,78        ,"12,953",nan,Alan Clarke,Ray Winstone,Crime
+74,Blackfish,2013,83 ,8.1,83        ,"71,907",$2.07M,Gabriela Cowperthwaite,Tilikum,Documentary            
+75,The Martian,2015,144 ,8,80        ,"915,171",$228.43M,Ridley Scott,Matt Damon,Adventure
+76,The Cove,2009,92 ,8.4,84        ,"51,295",$0.87M,Louie Psihoyos,Richard O'Barry,Documentary
+77,Dope,2015,103 ,7.2,72        ,"89,010",$17.51M,Rick Famuyiwa,Shameik Moore,Adventure
+78,Steve Jobs,2015,122 ,7.2,82        ,"177,746",$17.77M,Danny Boyle,Michael Fassbender,Biography
+79,First Blood,1982,93 ,7.7,61        ,"273,224",$47.21M,Ted Kotcheff,Sylvester Stallone,Action
+80,A Nightmare on Elm Street,1984,91 ,7.4,76        ,"260,582",$25.50M,Wes Craven,Heather Langenkamp,Horror            
+81,You Only Live Twice,1967,117 ,6.8,61        ,"116,906",$43.08M,Lewis Gilbert,Sean Connery,Action
+82,Bronson,2008,92 ,7,71        ,"140,169",$0.10M,Nicolas Winding Refn,Tom Hardy,Action
+83,Project Nim,2011,93 ,7.4,83        ,"8,585",$0.41M,James Marsh,Nim Chimpsky,Documentary            
+84,Three Days of the Condor,1975,117 ,7.4,63        ,"61,823",$41.51M,Sydney Pollack,Robert Redford,Crime
+85,Sullivan's Travels,1941,90 ,7.9,nan,"28,330",nan,Preston Sturges,Joel McCrea,Adventure
+86,Cape Fear,1991,128 ,7.3,73        ,"214,752",$79.10M,Martin Scorsese,Robert De Niro,Crime
+87,Glory,1989,122 ,7.8,78        ,"143,467",$26.83M,Edward Zwick,Matthew Broderick,Biography
+88,Pink Flamingos,1972,93 ,6,47        ,"27,635",$0.18M,John Waters,Divine,Comedy
+89,Eraserhead,1977,89 ,7.3,87        ,"126,319",$7.00M,David Lynch,Jack Nance,Fantasy
+90,Tucker and Dale vs Evil,2010,89 ,7.5,65        ,"192,392",$0.22M,Eli Craig,Tyler Labine,Comedy
+91,The Man Who Wasn't There,2001,116 ,7.5,73        ,"114,570",$7.49M,Joel Coen,Billy Bob Thornton,Crime
+92,Django,1966,91 ,7.2,75        ,"30,722",$0.03M,Sergio Corbucci,Franco Nero,Action
+93,Singin' in the Rain,1952,103 ,8.3,99        ,"258,767",$8.82M,Stanley Donen,Gene Kelly,Comedy
+94,Auto Focus,2002,105 ,6.6,66        ,"14,843",$2.06M,Paul Schrader,Greg Kinnear,Biography
+95,The Iron Giant,1999,86 ,8.1,85        ,"224,426",$23.16M,Brad Bird,Eli Marienthal,Animation
+96,Mononoke-hime,1997,134 ,8.3,76        ,"429,188",$2.38M,Hayao Miyazaki,Yôji Matsuda,Animation
+97,Mission: Impossible - Rogue Nation,2015,131 ,7.4,75        ,"408,202",$195.04M,Christopher McQuarrie,Tom Cruise,Action
+98,Double Indemnity,1944,107 ,8.3,95        ,"166,406",$5.72M,Billy Wilder,Fred MacMurray,Crime
+99,Aladdin,1992,90 ,8,86        ,"462,282",$217.35M,Ron Clements,John Musker,Animation
+0,It Follows,2014,100 ,6.8,83        ,"266,522",$14.67M,David Robert Mitchell,Maika Monroe,Horror
+1,Fast & Furious 7,2015,137 ,7.1,67        ,"412,731",$353.01M,James Wan,Vin Diesel,Action
+2,King Kong,1933,100 ,7.9,92        ,"90,351",$10.00M,Merian C. Cooper,Ernest B. Schoedsack,Adventure
+3,Spring, 2014,109 ,6.7,70        ,"31,143",$0.05M,Justin Benson,Aaron Moorhead,Horror
+4,Sicario,2015,121 ,7.7,82        ,"469,079",$46.89M,Denis Villeneuve,Emily Blunt,Action
+5,Awakenings,1990,121 ,7.8,74        ,"157,158",$52.10M,Penny Marshall,Robert De Niro,Biography
+6,Young Adult,2011,94 ,6.3,71        ,"87,369",$16.31M,Jason Reitman,Charlize Theron,Comedy
+7,Blow-Up,1966,111 ,7.5,82        ,"67,213",nan,Michelangelo Antonioni,David Hemmings,Drama
+8,The Long Goodbye,1973,112 ,7.5,87        ,"36,539",$0.96M,Robert Altman,Elliott Gould,Comedy
+9,Spartacus,1960,197 ,7.9,87        ,"142,322",$30.00M,Stanley Kubrick,Anthony Mann,Adventure
+10,Ronin,1998,122 ,7.2,67        ,"193,942",$41.62M,John Frankenheimer,Robert De Niro,Action
+11,Mad Max,1979,88 ,6.8,73        ,"220,349",$8.75M,George Miller,Mel Gibson,Action
+12,Touch of Evil,1958,95 ,8,99        ,"109,329",$2.24M,Orson Welles,Charlton Heston,Crime
+13,Nymphomaniac: Vol. I,2013,117 ,6.9,64        ,"130,869",$0.79M,Lars von Trier,Charlotte Gainsbourg,Drama            
+14,Ong-Bak,2003,108 ,7.1,69        ,"77,854",$4.56M,Prachya Pinkaew,Tony Jaa,Action
+15,Manhattan Melodrama,1934,93 ,7.1,nan,"4,772",nan,W.S. Van Dyke,Jack Conway,Crime
+16,Boyhood, 2014,165 ,7.9,100        ,"365,991",$25.38M,Richard Linklater,Ellar Coltrane,Drama            
+17,Terms of Endearment,1983,132 ,7.4,79        ,"64,988",$108.42M,James L. Brooks,Shirley MacLaine,Comedy
+18,The Master,2012,138 ,7.1,86        ,"185,215",$16.38M,Paul Thomas Anderson,Joaquin Phoenix,Drama
+19,How to Train Your Dragon 2,2014,102 ,7.8,77        ,"361,185",$177.00M,Dean DeBlois,Jay Baruchel,Animation
+20,What We Do in the Shadows,2014,86 ,7.6,76        ,"198,844",$3.33M,Jemaine Clement,Taika Waititi,Comedy
+21,Roger & Me,1989,91 ,7.5,70        ,"27,451",$6.71M,Michael Moore,Michael Moore,Documentary            
+22,Role Models,2008,99 ,6.8,61        ,"240,218",$67.29M,David Wain,Paul Rudd,Comedy            
+23,Wayne's World 2,1993,95 ,6.2,60        ,"87,724",$48.20M,Stephen Surjik,Mike Myers,Comedy
+24,The Warriors,1979,93 ,7.5,65        ,"109,794",$22.49M,Walter Hill,Michael Beck,Action
+25,The Castle,1997,85 ,7.6,nan,"17,382",$0.86M,Rob Sitch,Michael Caton,Comedy
+26,Home Alone 2: Lost in New York,1992,120 ,6.9,46        ,"400,164",$173.59M,Chris Columbus,Macaulay Culkin,Adventure
+27,Final Destination 2,2003,90 ,6.2,38        ,"180,672",$46.96M,David R. Ellis,A.J. Cook,Horror
+28,Mean Streets,1973,112 ,7.2,96        ,"118,696",$3.13M,Martin Scorsese,Robert De Niro,Crime
+29,The Full Monty,1997,91 ,7.2,75        ,"113,604",$45.95M,Peter Cattaneo,Robert Carlyle,Comedy
+30,Fast Times at Ridgemont High,1982,90 ,7.1,61        ,"114,884",$27.09M,Amy Heckerling,Sean Penn,Comedy
+31,Black Dynamite,2009,84 ,7.4,65        ,"51,592",$0.23M,Scott Sanders,Michael Jai White,Action
+32,Everything Is Illuminated,2005,106 ,7.4,58        ,"59,801",$1.71M,Liev Schreiber,Elijah Wood,Comedy
+33,No Way Out,1987,114 ,7.1,77        ,"45,447",$35.51M,Roger Donaldson,Kevin Costner,Action
+34,State of Grace,1990,134 ,7.2,60        ,"24,579",$1.91M,Phil Joanou,Sean Penn,Action
+35,The Hunger Games: Catching Fire,2013,146 ,7.5,76        ,"716,326",$424.67M,Francis Lawrence,Jennifer Lawrence,Action
+36,Miracle on 34th Street,1947,96 ,7.9,88        ,"54,750",$2.65M,George Seaton,Edmund Gwenn,Comedy
+37,Big Fish,2003,125 ,8,58        ,"457,199",$66.26M,Tim Burton,Ewan McGregor,Adventure
+38,Analyze This,1999,103 ,6.7,60        ,"161,090",$106.89M,Harold Ramis,Robert De Niro,Comedy
+39,Ben-Hur,1959,212 ,8.1,90        ,"251,765",$74.70M,William Wyler,Charlton Heston,Adventure
+40,Top Secret!,1984,90 ,7.2,68        ,"72,449",$20.50M,Jim Abrahams,David Zucker,Comedy
+41,Fast Five,2011,130 ,7.3,66        ,"405,024",$209.84M,Justin Lin,Vin Diesel,Action
+42,An Officer and a Gentleman,1982,124 ,7,75        ,"61,816",$129.80M,Taylor Hackford,Richard Gere,Drama
+43,Mystic River,2003,138 ,7.9,84        ,"482,954",$90.14M,Clint Eastwood,Sean Penn,Crime
+44,Shut Up and Play the Hits,2012,108 ,7.3,72        ,"2,881",$0.51M,Will Lovelace,Dylan Southern,Documentary
+45,Bobby Fischer Against the World,2011,93 ,7.4,76        ,"7,391",nan,Liz Garbus,Bobby Fischer,Documentary
+46,Southern Comfort,1981,106 ,7.1,63        ,"21,568",$5.00M,Walter Hill,Keith Carradine,Action
+47,Rocky II,1979,119 ,7.3,61        ,"229,723",nan,Sylvester Stallone,Sylvester Stallone,Drama
+48,Time Bandits,1981,116 ,6.9,79        ,"67,883",$42.37M,Terry Gilliam,Sean Connery,Adventure
+49,Jungle Fever,1991,132 ,6.6,78        ,"19,548",$32.48M,Spike Lee,Wesley Snipes,Drama
+50,Down Terrace,2009,93 ,6.4,68        ,"4,136",$0.01M,Ben Wheatley,Robin Hill,Crime
+51,"Play It Again, Sam",1972,85 ,7.6,77        ,"27,875",$2.30M,Herbert Ross,Woody Allen,Comedy
+52,Bill & Ted's Bogus Journey,1991,93 ,6.3,61        ,"80,703",$38.04M,Peter Hewitt,Keanu Reeves,Adventure
+53,Napoleon Dynamite,2004,96 ,7,64        ,"236,125",$44.54M,Jared Hess,Jon Heder,Comedy            
+54,We Need to Talk About Kevin,2011,112 ,7.5,68        ,"166,668",$1.74M,Lynne Ramsay,Tilda Swinton,Drama
+55,August: Osage County,2013,121 ,7.2,58        ,"94,990",$37.74M,John Wells,Meryl Streep,Comedy
+56,The Wedding Singer,1998,97 ,6.9,60        ,"161,267",$80.25M,Frank Coraci,Adam Sandler,Comedy
+57,The Naked Gun 2½: The Smell of Fear,1991,85 ,6.9,65        ,"121,304",$86.93M,David Zucker,Leslie Nielsen,Comedy
+58,Midnight in Paris,2011,94 ,7.6,81        ,"447,788",$56.82M,Woody Allen,Owen Wilson,Comedy
+59,Philadelphia,1993,125 ,7.7,66        ,"256,617",$77.32M,Jonathan Demme,Tom Hanks,Drama            
+60,Beowulf,2007,115 ,6.3,59        ,"173,580",$82.16M,Robert Zemeckis,Ray Winstone,Animation
+61,Deep Cover,1992,107 ,7,67        ,"13,876",$16.64M,Bill Duke,Laurence Fishburne,Action
+62,Runaway Jury,2003,127 ,7.1,61        ,"104,074",$49.44M,Gary Fleder,John Cusack,Crime
+63,Save the Tiger,1973,100 ,6.9,nan,"5,567",$2.33M,John G. Avildsen,Jack Lemmon,Drama            
+64,Mississippi Burning,1988,128 ,7.8,65        ,"109,555",$34.60M,Alan Parker,Gene Hackman,Crime
+65,Goon,2011,92 ,6.8,64        ,"90,484",$4.17M,Michael Dowse,Seann William Scott,Comedy
+66,Final Destination,2000,98 ,6.7,39        ,"277,277",$53.33M,James Wong,Devon Sawa,Horror
+67,Fletch,1985,98 ,6.9,68        ,"57,409",$50.61M,Michael Ritchie,Chevy Chase,Comedy
+68,The Lion King,1994,88 ,8.5,88        ,"1,132,720",$422.78M,Roger Allers,Rob Minkoff,Animation
+69,Sleeper,1973,89 ,7.1,77        ,"44,654",$2.91M,Woody Allen,Woody Allen,Comedy
+70,Shichinin no samurai,1954,207 ,8.6,98        ,"364,427",$0.27M,Akira Kurosawa,Toshirô Mifune,Action
+71,Amy, 2015,128 ,7.8,85        ,"54,595",$8.41M,Asif Kapadia,Amy Winehouse,Documentary
+72,The Lobster,2015,119 ,7.1,82        ,"290,123",$8.70M,Yorgos Lanthimos,Colin Farrell,Drama
+73,Commando,1985,90 ,6.7,51        ,"173,578",$35.10M,Mark L. Lester,Arnold Schwarzenegger,Action
+74,Ted,2012,106 ,6.9,62        ,"652,743",$218.82M,Seth MacFarlane,Mark Wahlberg,Comedy            
+75,The 40 Year Old Virgin,2005,116 ,7.1,73        ,"463,778",$109.45M,Judd Apatow,Steve Carell,Comedy
+76,Mary Poppins,1964,139 ,7.8,88        ,"184,883",$102.27M,Robert Stevenson,Julie Andrews,Comedy
+77,The Sound of Music,1965,172 ,8.1,63        ,"258,463",$163.21M,Robert Wise,Julie Andrews,Biography
+78,Arrival, 2016,116 ,7.9,81        ,"757,884",$100.55M,Denis Villeneuve,Amy Adams,Drama
+79,Uncut Gems,2019,135 ,7.4,92        ,"314,836",nan,Benny Safdie,Josh Safdie,Crime
+80,Manchester by the Sea,2016,137 ,7.8,96        ,"309,923",$47.70M,Kenneth Lonergan,Casey Affleck,Drama            
+81,Blade Runner 2049,2017,164 ,8,81        ,"650,898",$92.05M,Denis Villeneuve,Harrison Ford,Action
+82,Baby Driver,2017,113 ,7.5,86        ,"601,997",$107.83M,Edgar Wright,Ansel Elgort,Action
+83,Thor: Ragnarok,2017,130 ,7.9,74        ,"810,011",$315.06M,Taika Waititi,Chris Hemsworth,Action
+84,Detroit,2017,143 ,7.3,77        ,"55,728",$16.79M,Kathryn Bigelow,John Boyega,Crime
+85,Guardians of the Galaxy Vol. 2,2017,136 ,7.6,67        ,"753,487",$389.81M,James Gunn,Chris Pratt,Action
+86,The Ballad of Buster Scruggs,2018,133 ,7.2,79        ,"166,461",nan,Ethan Coen,Joel Coen,Comedy
+87,The Post,2017,116 ,7.2,83        ,"161,168",$81.90M,Steven Spielberg,Meryl Streep,Biography
+88,Hellboy II: The Golden Army,2008,120 ,7,78        ,"284,633",$75.75M,Guillermo del Toro,Ron Perlman,Action
+89,Dear Zachary: A Letter to a Son About His Father,2008,95 ,8.5,82        ,"40,365",$0.02M,Kurt Kuenne,Kurt Kuenne,Documentary
+90,The Edge of Seventeen,2016,104 ,7.3,77        ,"139,243",$14.43M,Kelly Fremon Craig,Hailee Steinfeld,Comedy
+91,13th,2016,100 ,8.2,81        ,"37,499",nan,Ava DuVernay,Melina Abdullah,Documentary
+92,Molly's Game,2017,140 ,7.4,71        ,"185,969",$28.78M,Aaron Sorkin,Jessica Chastain,Biography
+93,Free Fire,2016,91 ,6.3,63        ,"50,345",$1.80M,Ben Wheatley,Sharlto Copley,Action
+94,A Star Is Born,2018,136 ,7.6,88        ,"415,774",$215.29M,Bradley Cooper,Lady Gaga,Drama
+95,Blade II,2002,117 ,6.7,52        ,"232,867",$82.35M,Guillermo del Toro,Wesley Snipes,Action
+96,Falling Down,1993,113 ,7.6,56        ,"205,133",$40.90M,Joel Schumacher,Michael Douglas,Action
+97,Eyes Wide Shut,1999,159 ,7.5,69        ,"371,998",$55.69M,Stanley Kubrick,Tom Cruise,Drama
+98,The Lost Boys,1987,97 ,7.2,63        ,"159,798",$32.22M,Joel Schumacher,Jason Patric,Comedy
+99,Deadpool 2,2018,119 ,7.6,66        ,"638,250",$324.59M,David Leitch,Ryan Reynolds,Action
